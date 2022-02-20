@@ -1,0 +1,1 @@
+powershell ".\Convert-FolderContentToMarkdownTableOfContents.ps1"

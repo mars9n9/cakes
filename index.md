@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+﻿* [Базовый](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/ix.html) 
+  * [Базовые кремы](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BA%D1%80%D0%B5%D0%BC%D1%8B/ix.html) 
+    * [Англез наоборот](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BA%D1%80%D0%B5%D0%BC%D1%8B/anglaise%20backwards.html)
+    * [Крем Англез](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BA%D1%80%D0%B5%D0%BC%D1%8B/anglaise.html)
+    * [Крем Англез из маракуйи](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BA%D1%80%D0%B5%D0%BC%D1%8B/anglaise_fruit.html)
+    * [Заварной или кондитерский крем. Патисьер](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BA%D1%80%D0%B5%D0%BC%D1%8B/patissiere.html)
+  * [Базовые рецепты](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/ix.html) 
+    * [Сироп 30 B (Baume)](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/30B.html)
+    * [Кофейный экстракт](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/coffeextract.html)
+    * [Крамбл](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/crumble.html)
+    * [Помадка – фондант (fondant)](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/fondant.html)
+    * [Нейтральная глазурь](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/neutralglaze.html)
 
-You can use the [editor on GitHub](https://github.com/mars9n9/cakes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mars9n9/cakes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
