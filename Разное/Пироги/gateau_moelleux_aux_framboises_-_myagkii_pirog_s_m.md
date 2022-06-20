@@ -1,6 +1,6 @@
 # Мягкий пирог с малиной \| Gâteau moelleux aux framboises
 
-![Gâteau moelleux aux framboises](../pics/be65be89eacceb67f2d84442f0238bbd.jpg)
+![Gâteau moelleux aux framboises](../../pics/be65be89eacceb67f2d84442f0238bbd.jpg)
 
 #### Ингредиенты
 
