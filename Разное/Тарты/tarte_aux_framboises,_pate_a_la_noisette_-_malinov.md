@@ -1,6 +1,6 @@
 # Tarte aux framboises, pâte à la noisette \| Малиновый пирог из орехового теста
 
-![Tarte aux framboises, pâte à la noisette](../../7ba99746096ea29dabde7b8db9fe0d05.jpg)
+![Tarte aux framboises, pâte à la noisette](../../pics/7ba99746096ea29dabde7b8db9fe0d05.jpg)
 
 #### Ингредиенты:
 
