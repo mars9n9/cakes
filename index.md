@@ -79,6 +79,7 @@
     * [Лимонно-медовый тарт](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/limonno-medovii-tart.html)
     * [Лимонный тарт с чаем Эрл Грей](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/limonnyi-tart-s-chaem-erl-grei.html)
     * [Свекольный тарт с гибискусом](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/svekolnyi-tart-s-gibiskusom.html)
+    * [Фисташково-абрикосовый тарт](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tart_pistachio_apricot.html)
     * [Тарт с а-ля чизкейковой начинкой и клубникой](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tart_s_a-lya_chizkeikovoi_nachinkoi_i_klubnikoi.html)
     * [Tarte aux framboises, pâte à la noisette \| Малиновый пирог из орехового теста](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tarte_aux_framboises,_pate_a_la_noisette_-_malinov.html)
     * [Тарталетки с шоколадом и карамелью \| Tartelettes chocolat-caramel](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tartelettes_chocolat-caramel_-_tartaletki_s_shokol.html)
