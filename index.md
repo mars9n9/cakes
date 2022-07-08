@@ -94,6 +94,7 @@
     * [Шоколадный торт с вишней](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/cherry_choco.html)
     * [Черёмуховый торт](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/cheryomuhovii_tort.html)
     * [Йогуртово-банановый шоколадный торт](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/iogurtovo-bananovyi-shokoladnyi-tort.html)
+    * [Торт Листопад (ГОСТ)](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/listopad.html)
     * [Морковный торт с маскарпоне и кокосом \| Carrot cake with mascarpone & coconut](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/morkovnii-tort-s-maskarpone-i-kokosom-carrot-cake-with-mascarpone-and-coconut.html)
     * [Пирог шпинат-ваниль-лимон](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/pirog-shpinat-vanil-limon.html)
   * [Дрожжевой штоллен (эльзасская версия) \| Christollen](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/christollen.html)
