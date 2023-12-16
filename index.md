@@ -47,6 +47,7 @@
     * [Торт Карамельная Груша рецепт Hans Ovando](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/caramel_pears.html)
     * [чизкейк, ягоды, хрустящее печенье и овсяный штрейзель ](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/cheese_berry.html)
     * [Торт Киевский версия Nicolas Pierot](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/kiev.html)
+    * [Пирожное “Oreo”](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/oreo.html)
 * [Разное](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/ix.html) 
   * [Булочки](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%91%D1%83%D0%BB%D0%BE%D1%87%D0%BA%D0%B8/ix.html) 
     * [Шанежки с толоконной поливой и брусникой](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%91%D1%83%D0%BB%D0%BE%D1%87%D0%BA%D0%B8/shanezki.html)
