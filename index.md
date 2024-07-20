@@ -84,6 +84,7 @@
     * [Пирог с медом, кедровыми орехами и розмарином](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/pirog-s-medom-kedrovymi-orekhami-i-rozmarinom.html)
     * [Пирог со вкусом кофе и шоколада \| Magic custard cake with mocha flavor](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/pirog-so-vkusom-kofe-i-shokolada-magic-custard-cake-with-mocha-flavor.html)
     * [Пышный бисквит с бальзамической клубникой \| Fluffy sponge cake with balsamic strawberries](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/pishnii-biskvit-s-balzamicheskoi-klubnikoi.html)
+    * [Ревеневый пирог с меренгой и крамблом](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/rhubarb-pie-meringue.html)
     * [Сливововый пирог от Поля Бокюза](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/slivovovii-pirog-ot-polya-bokyuza.html)
     * [Клубничный крамбл с бурбоном \| Strawberry Bourbon Crisp](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/strawberry-bourbon-crisp.html)
     * [Сахарный пирог \| Tarte au sucre](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/tarte_au_sucre_-_saharnii_pirog.html)
