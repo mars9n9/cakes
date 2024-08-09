@@ -1,27 +1,4 @@
 function Convert-FolderContentToMarkdownTableOfContents{
-<#
-.SYNOPSIS
-Create a Table of Contents in markdown
-
-.DESCRIPTION
-This function can be used to generate a markdown file that contains a Table of Contents based on the contents of a folder
-
-.PARAMETER BaseFolder
-It’s the folder’s location on the disk
-
-.PARAMETER BaseURL
-to build the URL for each file. This will be added as a link
-
-.PARAMETER FiletypeFilter
-to filter the files on the folder
-
-.EXAMPLE
-Convert-FolderContentToMarkdownTableOfContents -BaseFolder "D:\Github\<module folder>" -BaseURL "https://github.com/<user>/<repository>/tree/master" -FiletypeFilter "*.md"
-
-.NOTES
-https://claudioessilva.eu/2017/09/18/generate-markdown-table-of-contents-based-on-files-within-a-folder-with-powershell/
-#>    
-    
     param (
         [string]$BaseFolder,
         [string]$FiletypeFilter,
@@ -62,5 +39,6 @@ https://claudioessilva.eu/2017/09/18/generate-markdown-table-of-contents-based-o
  
     return $TOC
 }
-
-Convert-FolderContentToMarkdownTableOfContents -BaseFolder  "D:\Documents\GitHub\cakes" -BaseURL "" -FiletypeFilter "*.md"  | Out-File "D:\Documents\GitHub\cakes\index.md" -Encoding UTF8
+# Get the current directory
+$currentDirectory = Get-Location
+Convert-FolderContentToMarkdownTableOfContents -BaseFolder $currentDirectory -BaseURL "" -FiletypeFilter "*.md" | Out-File (Join-Path $currentDirectory "index.markdown") -Encoding UTF8
