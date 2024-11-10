@@ -46,6 +46,8 @@
   * Разное
     * [Песочное тесто](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/pesochnoe.html)
     * [Температуры выпечки](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/temperature.html)
+  * Тарты
+    * [Tarte Tatin](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tatin.html)
   * Торты
     * [Муссовая яблочная шарлотка рецепт Kirsten Tibballs](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/apple-mousse-kirstentibballs.html)
     * [Чизкейк “Камамбер”](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/camembert.html)
