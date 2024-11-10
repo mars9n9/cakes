@@ -95,6 +95,8 @@
     * [Сахарный пирог \| Tarte au sucre](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/tarte_au_sucre_-_saharnii_pirog.html)
     * [Яблочный пирог из Трансильвании](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/yablochnii_pirog_iz_transilvanii.html)
     * [Яблочный пирог на йогуртовом тесте](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/yablochnyi-pirog-na-iogurtovom-teste.html)
+  * Рулеты
+    * [Рулет с яблоками и корицей](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A0%D1%83%D0%BB%D0%B5%D1%82%D1%8B/apple-roll-cake.html)
   * Тарты
     * [Лимонно-медовый тарт](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/limonno-medovii-tart.html)
     * [Лимонный тарт с чаем Эрл Грей](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/limonnyi-tart-s-chaem-erl-grei.html)
