@@ -1,1 +1,7 @@
-theme: jekyll-theme-minimal
+site_name: Mars9n9's Cakes Cookbook
+author: Mars9n9
+title: Mars9n9's Cakes Cookbook
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
