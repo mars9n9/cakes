@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/kapkeiki-matcha-laim.jpg
+---
 # Капкейки Матча-лайм
 
-![Капкейки Матча-лайм](../../pics/a4d56ac22d681a97be2514d91408ff8c-1.jpg)
+![Капкейки Матча-лайм](../../pics/kapkeiki-matcha-laim.jpg)
 
 #### Ингредиенты
 

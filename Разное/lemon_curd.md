@@ -1,6 +1,9 @@
+---
+image: ../pics/lemon_curd.jpg
+---
 # Lemon curd \| Лимонный курд
 
-![Lemon curd](../pics/79245d170d383e812e69f333ceafe772.jpg)
+![Lemon curd](../pics/lemon_curd.jpg)
 
 Время приготовления: 40 мин + охлаждение
 
@@ -27,4 +30,4 @@
 
 Перелить курд в банку. Хранить его в холодильнике \(в течении 1 недели\).
 
-_maria-cuisine.livejournal.com_
+_lj: maria-cuisine_

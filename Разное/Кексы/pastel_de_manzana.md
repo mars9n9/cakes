@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/pastel_de_manzana.jpg
+---
 # Испанский яблочный пирог с ромом \| Pastel de manzana con ron
 
-![Pastel de manzana con ron](https://s-media-cache-ak0.pinimg.com/564x/b4/39/0a/b4390a36d1ad0ccbe851bdb09a6b6fa3.jpg)
+![Pastel de manzana con ron](../../pics/pastel_de_manzana.jpg)
 
 #### Ингредиенты
 
@@ -35,4 +38,4 @@
 
 Смазать глазурью пирог, посыпать обжаренными миндальными лепестками. Дать глазури застыть около 30 мин или оставить на ночь.
 
-[_http://world-cuisine.livejournal.com/125870.html_](http://world-cuisine.livejournal.com/125870.html)
+_lj:world-cuisine_

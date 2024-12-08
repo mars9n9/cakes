@@ -1,6 +1,9 @@
+---
+image: ../pics/brie-bites.jpg
+---
 # Mini Pastry Wrapped Cranberry Baked Brie Bites \| Бри с клюквой в слоеном тесте
 
-![Mini Pastry Wrapped Cranberry Baked Brie Bites](../pics/Pastry-Wrapped-Cranberry-Baked-Brie-Bites-6-700x1050.jpg)
+![Mini Pastry Wrapped Cranberry Baked Brie Bites](../pics/brie-bites.jpg)
 
 #### Ингредиенты
 

@@ -1,6 +1,9 @@
+---
+image: ../../pics/pirog-s-medom-kedrovymi-orekhami-i-rozmarinom.jpg
+---
 # Пирог с медом, кедровыми орехами и розмарином
 
-![Пирог с медом, кедровыми орехами и розмарином](../../pics/144049_original.jpg)
+![Пирог с медом, кедровыми орехами и розмарином](../../pics/pirog-s-medom-kedrovymi-orekhami-i-rozmarinom.jpg)
 
 #### Ингредиенты
 
@@ -28,4 +31,4 @@
 
 Посыпьте сахарной пудрой и подавайте с маскарпоне, взбитыми сливками, кремом фреш или сметаной.
 
-[_https://dolphy-tv.livejournal.com/76952.html_](https://dolphy-tv.livejournal.com/76952.html)
+_lj: dolphy-tv_

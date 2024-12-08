@@ -1,13 +1,16 @@
+---
+image: ../../pics/tartelettes_chocolat_caramel.jpg
+---
 # Тарталетки с шоколадом и карамелью \| Tartelettes chocolat-caramel
 
-![Tartelettes chocolat-caramel](https://s-media-cache-ak0.pinimg.com/564x/bc/f7/b5/bcf7b536a7370ff5ea4cd0ea073679f1.jpg)
+![Tartelettes chocolat-caramel](../../pics/tartelettes_chocolat_caramel.jpg)
 
 #### Ингредиенты
 
 на 4 тарталетки
 
 * тесто brisée \(делать на 250 гр муки, использовать половину получившейся порции\)
-* 150 гр чёрного шоколада \(желательно кондитерского\)
+* 150 гр темного шоколада
 * 50 гр сливочного масла слабой соли
 * 20 гр сливочного масла
 * 180 мл сливок
@@ -28,4 +31,4 @@
 
 Декорировать каштановым кремом.
 
-_maria-cuisine.livejournal.com_
+_lj: maria-cuisine_

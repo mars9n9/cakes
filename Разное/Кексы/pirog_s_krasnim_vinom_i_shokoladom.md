@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/pirog_s_krasnim_vinom_i_shokoladom.jpg
+---
 # Пирог с красным вином и шоколадом
 
-![Пирог с красным вином и шоколадом](../../pics/DSCN4264.jpg)
+![Пирог с красным вином и шоколадом](../../pics/pirog_s_krasnim_vinom_i_shokoladom.jpg)
 
 #### Ингредиенты
 
@@ -42,4 +45,4 @@
 
 Для глазури растопить шоколад и масло, добавить варенье.
 
-_maria-cuisine.livejournal.com_
+_lj: maria-cuisine_

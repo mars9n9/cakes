@@ -1,6 +1,9 @@
+---
+image: ../pics/semifreddo-alle-fragole.jpg
+---
 # Семифреддо с клубникой \| Semifreddo alle fragole
 
-![Semifreddo alle fragole](./../pics/6265912756_937b700022_z-1-.jpg)
+![Semifreddo alle fragole](../pics/semifreddo-alle-fragole.jpg)
 
 #### Ингредиенты:
 
@@ -32,5 +35,4 @@
 
 Перед подачей достать формочки и погрузите дно каждой на 15 секунд в горячую воду. После этого сразу вынуть семифреддо из формы, удалить пленку, перевернуть на тарелку, подождать 3-4 минуты и подавать.
 
-[_http://elladkin.livejournal.com/454041.html_](http://elladkin.livejournal.com/454041.html)
-
+_lj: elladkin_

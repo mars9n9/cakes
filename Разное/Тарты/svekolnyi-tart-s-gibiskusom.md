@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/beetroot-hibiscus-tart-4.jpg
+---
 # Свекольный тарт с гибискусом
 
-![](../../pics/beetroot-hibiscus-tart-4.jpg)
+![Свекольный тарт с гибискусом](../../pics/beetroot-hibiscus-tart-4.jpg)
 
 #### Ингредиенты:
 
@@ -27,5 +30,4 @@
 
 Перед подачей украсить ягодами ежевики
 
-[_https://nirvanacakery.com/beetroot-hibiscus-tart/_](https://nirvanacakery.com/beetroot-hibiscus-tart/)
-
+_nirvanacakery.com_

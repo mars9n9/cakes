@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/magic-custard-cake-5.jpg
+---
 # Пирог со вкусом кофе и шоколада \| Magic custard cake with mocha flavor
 
-![](../../pics/magic-custard-cake-5.jpg)
+![Пирог со вкусом кофе и шоколада](../../pics/magic-custard-cake-5.jpg)
 
 #### Ингредиенты:
 

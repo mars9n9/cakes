@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/tatin.jpg
+---
 # Tarte Tatin
 
-![Tarte Tatin](../../pics/8128526858_ebf558bdb9_o.jpg)
+![Tarte Tatin](../../pics/tatin.jpg)
 
 #### Ингредиенты
 

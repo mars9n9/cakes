@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/alfajores.jpg
+---
 # Печенье alfajores
 
-![alfajores](../../pics/95666448_338017693841593_8658482039353197707_n.jpg)
+![Печенье alfajores](../../pics/alfajores.jpg)
 
 #### Ингредиенты
 
@@ -21,4 +24,4 @@
 
 Остывшее печенье заполнить вареной сгущенкой
 
-[_https://www.instagram.com/p/B\_xcixLl\_mM/_](https://www.instagram.com/p/B_xcixLl_mM/)
+_Ig:antonio.bachour_

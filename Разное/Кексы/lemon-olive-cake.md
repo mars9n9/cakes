@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/lemon-olive-cake.webp
+---
 # Лимонный кекс с оливковым маслом
 
-![Лимонный кекс с оливковым маслом](../../pics/Super-Lemony-Olive-Oil-Cake.webp)
+![Лимонный кекс с оливковым маслом](../../pics/lemon-olive-cake.webp)
 
 #### Ингредиенты
 

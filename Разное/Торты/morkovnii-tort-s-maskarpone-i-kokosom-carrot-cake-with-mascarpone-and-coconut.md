@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/morkovnii-tort-s-maskarpone-i-kokosom-carrot-cake-with-mascarpone-and-coconut.jpg
+---
 # Морковный торт с маскарпоне и кокосом \| Carrot cake with mascarpone & coconut
 
 ![Carrot cake with mascarpone & coconut](../../pics/morkovnii-tort-s-maskarpone-i-kokosom-carrot-cake-with-mascarpone-and-coconut.jpg)
@@ -46,5 +49,5 @@
 
 Каждый корж разрезать вдоль пополам, чтобы получить 4 коржа. Собрать торт, промазывая коржи кремом и укладывая друг на друга. Смазать верх и бока торта, присыпать все кокосовой стружкой.
 
-[_http://www.eatmeblog.com/2015/04/carrot-cake-with-mascarpone-coconut.html_](http://www.eatmeblog.com/2015/04/carrot-cake-with-mascarpone-coconut.html)
+_eatmeblog.com_
 

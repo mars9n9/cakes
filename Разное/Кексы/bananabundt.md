@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/bananabundt.jpg
+---
 # Банановый кекс с горячим карамельным соусом \| A banana bundt cake with hot butterscotch sauce
 
-![A banana bundt cake with hot butterscotch sauce](../../pics/5f04a526235035e569a547a3da97a573.jpg)
+![A banana bundt cake with hot butterscotch sauce](../../pics/bananabundt.jpg)
 
 #### Ингредиенты
 

@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/lemon+earl+grey+tart+11.jpg
+---
 # Лимонный тарт с чаем Эрл Грей
 
 ![Лимонный тарт с чаем Эрл Грей](../../pics/lemon+earl+grey+tart+11.jpg)
@@ -50,4 +53,4 @@
 
 Для подачи выложить шантильи ложкой на поверхность тарта и нарисовать галочку. Из мешка выложить капли малинового сиропа
 
-[_http://www.hintofvanillablog.com/home/2016/2/18/lemon-earl-grey-tart-with-buttermilk-chantilly_](http://www.hintofvanillablog.com/home/2016/2/18/lemon-earl-grey-tart-with-buttermilk-chantilly)
+_hintofvanillablog.com_

@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/listopad.jpg
+---
 # Торт Листопад (ГОСТ)
 
-![Торт Листопад (ГОСТ)](../../pics/254472_original.jpg)
+![Торт Листопад (ГОСТ)](../../pics/listopad.jpg)
 
 #### Ингредиенты
 
@@ -58,5 +61,4 @@
 
 Сделать бордюр из крема. В центре торта можно уложить шоколадную стружку.
 
-[_https://chadeyka.livejournal.com/_](https://chadeyka.livejournal.com/)
-
+_lj:chadeyka_

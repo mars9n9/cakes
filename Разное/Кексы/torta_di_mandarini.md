@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/torta_di_mandarini.jpg
+---
 # Пирог с мандаринами \| Torta di mandarini
 
-![Torta di mandarini](../../pics/19ebcbdd156c7f8bdd31b407b6d7eac7.jpg)
+![Torta di mandarini](../../pics/torta_di_mandarini.jpg)
 
 #### Ингредиенты
 

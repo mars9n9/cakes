@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/cake_oriental.jpg
+---
 # Восточный кекс \| Cake oriental
 
-![Cake oriental](../../pics/e951824f5b9fa0cdc0c2370e1c170ddb.jpg)
+![Cake oriental](../../pics/cake_oriental.jpg)
 
 #### Ингредиенты
 

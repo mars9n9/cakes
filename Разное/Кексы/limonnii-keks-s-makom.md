@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/limonnii-keks-s-makom.jpg
+---
 # Лимонный кекс с маком
 
-![Лимонный кекс с маком](https://i.pinimg.com/564x/85/4d/97/854d97d9234301fe75cb9bebfb347767.jpg)
+![Лимонный кекс с маком](../../pics/limonnii-keks-s-makom.jpg)
 
 #### Ингредиенты
 

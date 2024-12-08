@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/bananovii_hleb_s_shokoladom_i_arahisom.jpg
+---
 # Банановый хлеб с шоколадом и арахисом \| Chocolate Chip & Peanut Banana Bread
 
-![Chocolate Chip & Peanut Banana Bread](../../pics/39baa25141d6ffaada3d8480f6482748.jpg)
+![Chocolate Chip & Peanut Banana Bread](../../pics/bananovii_hleb_s_shokoladom_i_arahisom.jpg)
 
 #### Ингредиенты
 

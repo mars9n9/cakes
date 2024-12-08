@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/tart-strawberry-cheesecake.jpg
+---
 # Тарт с а-ля чизкейковой начинкой и клубникой
 
-![](https://s-media-cache-ak0.pinimg.com/564x/19/bb/9d/19bb9d8c7a1a0a69aacc083b7f364a75.jpg)
+![Тарт с а-ля чизкейковой начинкой и клубникой](../../pics/tart-strawberry-cheesecake.jpg)
 
 #### Ингредиенты:
 
@@ -27,5 +30,5 @@ Fromage blanc отвесить на сито на 2 часа минимум. _В
 
 Остудить. Выложить клубнику.
 
-_maria-cuisine.livejournal.com_
+_lj: maria-cuisine_
 

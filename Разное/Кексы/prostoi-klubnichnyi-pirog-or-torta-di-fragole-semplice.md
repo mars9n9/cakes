@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/prostoi-klubnichnyi-pirog-or-torta-di-fragole-semplice.jpg
+---
 # Простой клубничный пирог \| Torta di fragole semplice
 
-![Torta di fragole semplice](../../pics/7250223604_3502819e55_c-1-.jpg)
+![Torta di fragole semplice](../../pics/prostoi-klubnichnyi-pirog-or-torta-di-fragole-semplice.jpg)
 
 #### Ингредиенты
 
@@ -27,4 +30,4 @@
 
 Подавать посыпав сахарной пудрой и украсив свежими ягодами.
 
-[_http://elladkin.livejournal.com/475210.html_](http://elladkin.livejournal.com/475210.html)
+_lj:elladkin_

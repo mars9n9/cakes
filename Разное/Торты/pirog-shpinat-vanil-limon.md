@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/pirog-shpinat-vanil-limon.jpg
+---
 # Пирог шпинат-ваниль-лимон
 
-![](../../pics/c180d50a621c663a6daf643992e92ca6-1.jpg)
+![Пирог шпинат-ваниль-лимон](../../pics/pirog-shpinat-vanil-limon.jpg)
 
 #### Ингредиенты
 
@@ -38,5 +41,5 @@
 
 Корж разрезать вдоль на 2 части. Перемазать кремом. Дать постоять в холодильнике пару часов.
 
-[_https://www.instagram.com/p/BdAarEilTCj/_](https://www.instagram.com/p/BdAarEilTCj/)
+_Ig: foodedlife_
 

@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/perevernutii-slivochnii-keks-s-klubnikoi.jpg
+---
 # Перевернутый сливочный кекс с клубникой
 
-![Перевернутый сливочный кекс с клубникой](../../pics/10_497935.jpg)
+![Перевернутый сливочный кекс с клубникой](../../pics/perevernutii-slivochnii-keks-s-klubnikoi.jpg)
 
 #### Ингредиенты
 
@@ -24,4 +27,4 @@
 
 Выпекать 45 минут при 180С. Готовый пирог оставить в духовке на 5-10 минут, потом достать, перевернуть на решетку или тарелку.
 
-[_https://chadeyka.livejournal.com/269979.html_](https://chadeyka.livejournal.com/269979.html)
+_lj:chadeyka_

@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/yogurt-banana-chocolate-cake-02.jpg
+---
 # Йогуртово-банановый шоколадный торт
 
 ![Йогуртово-банановый шоколадный торт](../../pics/yogurt-banana-chocolate-cake-02.jpg)
@@ -42,4 +45,4 @@
 
 Вылейте шоколадный соус на пирог и затем натрите немного шоколада сверху.
 
-[_https://www.playfulcooking.com/cakes-cupcakes-and-muffins/yogurt-banana-chocolate-cake/_](https://www.playfulcooking.com/cakes-cupcakes-and-muffins/yogurt-banana-chocolate-cake/)
+_playfulcooking.com_

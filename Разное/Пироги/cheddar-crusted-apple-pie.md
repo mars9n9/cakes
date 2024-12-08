@@ -1,6 +1,10 @@
+---
+image: ../../pics/cheddar-crusted-apple-pie.jpg
+---
+
 # Яблочный пирог с сырной корочкой из Чеддера
 
-![Яблочный пирог с сырной корочкой из Чеддера](https://s-media-cache-ak0.pinimg.com/564x/50/43/e1/5043e17683ff29c71fd32424028ff20c.jpg)
+![Яблочный пирог с сырной корочкой из Чеддера](../../pics/cheddar-crusted-apple-pie.jpg)
 
 #### Ингредиенты
 
@@ -40,4 +44,4 @@
 
 Выпекать 20 минут, затем уменьшить температуру до 190 градусов и выпекать золотисто-коричневой корочки еще около 40 минут. Остудить на решетке 4 часа или ночь.
 
-[_http://www.marthastewart.com/340605/cheddar-crusted-apple-pie_](http://www.marthastewart.com/340605/cheddar-crusted-apple-pie)
+_marthastewart.com_

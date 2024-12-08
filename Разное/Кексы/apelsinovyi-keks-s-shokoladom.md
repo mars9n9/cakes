@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/apelsinovyi-keks-s-shokoladom.jpg
+---
 # Апельсиновый кекс с шоколадом
 
-![Апельсиновый кекс с шоколадом](../../pics/img_3143_edited-1.jpg)
+![Апельсиновый кекс с шоколадом](../../pics/apelsinovyi-keks-s-shokoladom.jpg)
 
 #### Ингредиенты
 
@@ -31,4 +34,4 @@
 
 Вынуть кекс из духовки, дать ему остыть 5-7 минут, затем вынуть кекс из формы на решетку и дать ему полностью остыть.
 
-*buxgalter-sofi.livejournal.com*
+*lj: buxgalter-sofi*

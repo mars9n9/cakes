@@ -1,6 +1,9 @@
+---
+image: ../../pics/pirog-s-belym-shokoladom.jpg
+---
 # Пирог с белым шоколадом
 
-![Пирог с белым шоколадом](../../pics/f6106eb936e4b534cfe67a4d5dce5101.jpg)
+![Пирог с белым шоколадом](../../pics/pirog-s-belym-shokoladom.jpg)
 
 #### Ингредиенты
 
@@ -38,4 +41,4 @@
 
 Сразу же вытащить из духовки. Когда пирог немного остынет, посыпать сахарной пудрой.
 
-[_https://sonata.livejournal.com/323376.html_](https://sonata.livejournal.com/323376.html)
+_lj: sonata_

@@ -1,6 +1,9 @@
+---
+image: ../../pics/southern-peach-cobbler.jpg
+---
 # Персиковый кобблер
 
-![Персиковый кобблер](../../pics/southern-peach-cobbler-3-682x1024.jpg)
+![Персиковый кобблер](../../pics/southern-peach-cobbler.jpg)
 
 #### Ингредиенты
 
@@ -34,4 +37,4 @@
 
 Подавать теплым с мороженым.
 
-[_https://www.thegraciouswife.com/southern-peach-cobbler/_](https://www.thegraciouswife.com/southern-peach-cobbler/)
+_thegraciouswife.com_

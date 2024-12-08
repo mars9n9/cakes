@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/vinogradnii-pirog.jpg
+---
 # Виноградный пирог
 
-![Виноградный пирог](../../pics/7f8e554b30b8042392356dcd74d9cf2b.jpg)
+![Виноградный пирог](../../pics/vinogradnii-pirog.jpg)
 
 #### Ингредиенты:
 
@@ -34,5 +37,5 @@
 
 Аккуратно перевернуть на тарелку, остудить и присыпать сахарной пудрой. Украсить лепестками миндаля и веточками винограда
 
-[_http://vredina-22.livejournal.com/61054.html_](http://vredina-22.livejournal.com/61054.html)
+_lj:vredina-22_
 

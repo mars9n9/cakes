@@ -22,10 +22,8 @@
     * [Нейтральная глазурь](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/neutralglaze.html)
   * Бисквиты
     * [Дакуаз](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%91%D0%B8%D1%81%D0%BA%D0%B2%D0%B8%D1%82%D1%8B/dacquoise.html)
-  * Глазури
   * Заварное тесто
     * [Эклеры](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%97%D0%B0%D0%B2%D0%B0%D1%80%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%BE/eclair.html)
-  * Кексы
   * Кремы
     * [Масляный крем с пралине](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%9A%D1%80%D0%B5%D0%BC%D1%8B/buttercream_praline.html)
     * [Карамельный крем с кофе](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%9A%D1%80%D0%B5%D0%BC%D1%8B/creme_caramel.html)
@@ -33,8 +31,7 @@
     * [Французская Меренга](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%9C%D0%B5%D1%80%D0%B5%D0%BD%D0%B3%D0%B8/french_meringue.html)
     * [Итальянская Меренга](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%9C%D0%B5%D1%80%D0%B5%D0%BD%D0%B3%D0%B8/italian_meringue.html)
     * [Швейцарская Меренга](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%9C%D0%B5%D1%80%D0%B5%D0%BD%D0%B3%D0%B8/swiss_meringue.html)
-  * Слоеное тесто
-  * Тарты
+  * Песочное тесто
   * Торты
     * [Торт Дакуаз Пралине](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/dacquois_praline.html)
     * [Вашрен (Vacherin)](https://mars9n9.github.io/cakes/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/vacherin.html)
@@ -47,13 +44,14 @@
     * [Песочное тесто](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/pesochnoe.html)
     * [Температуры выпечки](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/temperature.html)
   * Тарты
+    * [Фисташково-абрикосовый тарт](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tart_pistachio_apricot.html)
     * [Tarte Tatin](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tatin.html)
   * Торты
     * [Муссовая яблочная шарлотка рецепт Kirsten Tibballs](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/apple-mousse-kirstentibballs.html)
     * [Торт с карамельными яблоками рецепт Hans Ovando](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/cake-apple-caramel-ovando.html)
     * [Чизкейк “Камамбер”](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/camembert.html)
-    * [Торт Карамельная Груша рецепт Hans Ovando](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/caramel_pears.html)
-    * [чизкейк, ягоды, хрустящее печенье и овсяный штрейзель ](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/cheese_berry.html)
+    * [Торт Карамельная Груша рецепт Hans Ovando](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/caramel_pearsl-ovando.html)
+    * [Чизкейк, ягоды, хрустящее печенье и овсяный штрейзель ](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/cheese_berry.html)
     * [Торт Киевский версия Nicolas Pierot](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/kiev.html)
     * [Пирожное “Oreo”](https://mars9n9.github.io/cakes/%D0%9F%D1%80%D0%BE%D1%84%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/oreo.html)
 * Разное
@@ -61,13 +59,13 @@
     * [Шанежки с толоконной поливой и брусникой](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%91%D1%83%D0%BB%D0%BE%D1%87%D0%BA%D0%B8/shanezki.html)
   * [Кексы](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/ix.html)
     * [Апельсиновый кекс с шоколадом](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/apelsinovyi-keks-s-shokoladom.html)
+    * [Яблочный кекс с крустильяном](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/apple-crust.html)
     * [Банановый кекс с горячим карамельным соусом \| A banana bundt cake with hot butterscotch sauce](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/bananabundt.html)
     * [Бананово-кокосовый кекс](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/banana-coconut-cake.html)
     * [Банановый хлеб с шоколадом и арахисом \| Chocolate Chip & Peanut Banana Bread](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/bananovii_hleb_s_shokoladom_i_arahisom.html)
     * [Восточный кекс \| Cake oriental](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/cake_oriental.html)
-    * [Медовый кекс с зелёным чаем, имбирём и лимоном](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/chainii_keks_k_chayu.html)
-    * [Яблочный кекс с крустильяном](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/crust.html)
     * [Шоколадно-банановые маффины с маскарпоне и карамельным соусом \| Double chocolate banana muffins with mascarpone frosting and bourbon caramel sauce](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/double-chocolate-banana-muffins.html)
+    * [Медовый кекс с зелёным чаем, имбирём и лимоном](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/honey-tea-cake.html)
     * [Капкейки Матча-лайм](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/kapkeiki-matcha-laim.html)
     * [Клюквенный кекс от Марты Стюарт](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/klyukvennii-keks-ot-marti-styuart.html)
     * [Лимонный кекс с оливковым маслом](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/lemon-olive-cake.html)
@@ -79,8 +77,7 @@
     * [Пирог с мандаринами \| Torta di mandarini](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/torta_di_mandarini.html)
     * [Виноградный пирог](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/vinogradnii-pirog.html)
   * Печенье
-    * [Печенье alfajores](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B5%D1%87%D0%B5%D0%BD%D1%8C%D0%B5/pechene-alfajores.html)
-    * [Sablés diamants - Печенье "Песочные бриллианты"](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B5%D1%87%D0%B5%D0%BD%D1%8C%D0%B5/sables_diamants_-_pechene_pesochnie_brillianti.html)
+    * [Печенье alfajores](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B5%D1%87%D0%B5%D0%BD%D1%8C%D0%B5/alfajores.html)
   * Пироги
     * [Яблочный пирог с сырной корочкой из Чеддера](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/cheddar-crusted-apple-pie.html)
     * [Влажный апельсиновый пирог \| Gâteau humide à l'orange](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/gateau_humide_a_lorange_-_vlazhnii_apelsinovii_pir.html)
@@ -104,19 +101,17 @@
     * [Лимонно-медовый тарт](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/limonno-medovii-tart.html)
     * [Лимонный тарт с чаем Эрл Грей](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/limonnyi-tart-s-chaem-erl-grei.html)
     * [Свекольный тарт с гибискусом](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/svekolnyi-tart-s-gibiskusom.html)
-    * [Фисташково-абрикосовый тарт](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tart_pistachio_apricot.html)
-    * [Тарт с а-ля чизкейковой начинкой и клубникой](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tart_s_a-lya_chizkeikovoi_nachinkoi_i_klubnikoi.html)
-    * [Tarte aux framboises, pâte à la noisette \| Малиновый пирог из орехового теста](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tarte_aux_framboises,_pate_a_la_noisette_-_malinov.html)
-    * [Тарталетки с шоколадом и карамелью \| Tartelettes chocolat-caramel](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tartelettes_chocolat-caramel_-_tartaletki_s_shokol.html)
+    * [Tarte aux framboises, pâte à la noisette \| Малиновый пирог из орехового теста](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tarte_aux_framboises.html)
+    * [Тарталетки с шоколадом и карамелью \| Tartelettes chocolat-caramel](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tartelettes_chocolat_caramel.html)
     * [Тарт с белым шоколадом, лимоном и лавандой](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tart-s-belym-shokoladom-limonom-i-lavandoi.html)
+    * [Тарт с а-ля чизкейковой начинкой и клубникой](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tart-strawberry-cheesecake.html)
     * [​​Тарт с вишней и миндалём](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B0%D1%80%D1%82%D1%8B/tart-s-vishnei-i-mindalyom.html)
   * Торты
     * [Шоколадный торт с вишней](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/cherry_choco.html)
-    * [Черёмуховый торт](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/cheryomuhovii_tort.html)
-    * [Йогуртово-банановый шоколадный торт](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/iogurtovo-bananovyi-shokoladnyi-tort.html)
     * [Торт Листопад (ГОСТ)](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/listopad.html)
     * [Морковный торт с маскарпоне и кокосом \| Carrot cake with mascarpone & coconut](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/morkovnii-tort-s-maskarpone-i-kokosom-carrot-cake-with-mascarpone-and-coconut.html)
     * [Пирог шпинат-ваниль-лимон](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/pirog-shpinat-vanil-limon.html)
+    * [Йогуртово-банановый шоколадный торт](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%BE%D1%80%D1%82%D1%8B/yogurt-banana-chocolate-cake.html)
   * [Mini Pastry Wrapped Cranberry Baked Brie Bites \| Бри с клюквой в слоеном тесте](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/brie-bites.html)
   * [Дрожжевой штоллен (эльзасская версия) \| Christollen](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/christollen.html)
   * [Lemon curd \| Лимонный курд](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/lemon_curd.html)

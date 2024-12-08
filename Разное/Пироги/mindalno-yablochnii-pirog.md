@@ -1,6 +1,10 @@
+---
+image: ../../pics/gateau_moelleux_aux_framboises.jpg
+---
+
 # Миндально-яблочный пирог
 
-![Миндально-яблочный пирог](https://i.pinimg.com/564x/5a/c5/0d/5ac50dc03e037ffcb680c1174d492947.jpg)
+![Миндально-яблочный пирог](../../pics/mindalno-yablochnii-pirog.jpg)
 
 #### Ингредиенты
 
@@ -37,4 +41,4 @@
 
 Готовый пирог вынуть из духовки и дать полностью остыть. По желанию посыпать сахарной пудрой.
 
-[_http://buxgalter-sofi.livejournal.com/307613.html_](http://buxgalter-sofi.livejournal.com/307613.html)
+*lj:buxgalter-sofi*

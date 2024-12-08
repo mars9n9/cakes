@@ -1,6 +1,10 @@
+---
+image: ../../pics/gateau_moelleux_aux_framboises.jpg
+---
+
 # Мягкий пирог с малиной \| Gâteau moelleux aux framboises
 
-![Gâteau moelleux aux framboises](../../pics/be65be89eacceb67f2d84442f0238bbd.jpg)
+![Gâteau moelleux aux framboises](../../pics/gateau_moelleux_aux_framboises.jpg)
 
 #### Ингредиенты
 
@@ -31,4 +35,4 @@
 
 Выпекать пирог 40 мин при 180С.
 
-_maria-cuisine.livejournal.com_
+_lj: maria-cuisine_

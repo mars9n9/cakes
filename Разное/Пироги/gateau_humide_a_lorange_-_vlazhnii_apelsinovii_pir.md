@@ -1,10 +1,14 @@
+---
+image: ../../pics/gateau_humide_a_lorange.jpg
+---
+
 # Влажный апельсиновый пирог \| Gâteau humide à l'orange
 
-Время Приготовление: 1 час + пропитка
-
-![Gâteau humide à l'orange](../../pics/SAM_3740.jpg)
+![Gâteau humide à l'orange](../../pics/gateau_humide_a_lorange.jpg)
 
 #### Ингредиенты
+
+1 час + пропитка
 
 * 175 г самовосходящей муки \(на 500 гр муки засыпать 15 гр разрыхлителя и просеять 2-3 раза\)
 * 3 яйца
@@ -33,4 +37,4 @@
 
 Пирог поливать сиропом лучше постепенно, давая ему впитывать жидкость небольшими количествами.
 
-_maria-cuisine.livejournal.com_
+_lj: maria-cuisine_

@@ -1,6 +1,9 @@
+﻿---
+image: ../../pics/klyukvennii-keks-ot-marti-styuart.jpg
+---
 # Клюквенный кекс от Марты Стюарт
 
-![Клюквенный кекс от Марты Стюарт](../../pics/img0405z.jpg)
+![Клюквенный кекс от Марты Стюарт](../../pics/klyukvennii-keks-ot-marti-styuart.jpg)
 
 #### Ингредиенты
 
@@ -25,4 +28,4 @@
 
 Выпекать 1 час - 1 час 15 минут при 180 градусах. Кекс остудить, присыпать сахарной пудрой
 
-*home-chef.livejournal.com*
+*lj: home-chef*
