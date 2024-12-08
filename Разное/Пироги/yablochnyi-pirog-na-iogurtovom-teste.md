@@ -1,9 +1,9 @@
 ﻿---
-image: ../cakes/pics/yablochnyi-pirog-na-iogurtovom-teste
+image: ../cakes/pics/yablochnyi-pirog-na-iogurtovom-teste.jpg
 ---
 # Яблочный пирог на йогуртовом тесте
 
-![Яблочный пирог на йогуртовом тесте](../../pics/yablochnyi-pirog-na-iogurtovom-teste)
+![Яблочный пирог на йогуртовом тесте](../../pics/yablochnyi-pirog-na-iogurtovom-teste.jpg)
 
 #### Ингредиенты
 
