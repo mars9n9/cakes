@@ -21,9 +21,10 @@
   <header class="page-header" role="banner">
     <!-- Front Page Link -->
     {% if page.url != "/" %}
-    <h1 class="project-name">{{default: site.title | default: site.github.repository_name }}</h1>
-    <h2 class="project-tagline">{{ page.title | default: site.description | default: site.github.project_tagline
-      }}</h2>
+    <h1 class="project-name">{{ page.title | default: site.description | default: site.github.project_tagline
+      }}</h1>
+    <h2 class="project-tagline"> <a href="{{ '/' | relative_url }}">{{default: site.title | default:
+        site.github.repository_name }}</a></h2>
     {%else%}
 
     <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
