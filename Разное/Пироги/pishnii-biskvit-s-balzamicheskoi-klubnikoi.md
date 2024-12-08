@@ -1,9 +1,9 @@
 ﻿---
-image: ../cakes/pics/28144404936_7ae35de071_b.jpg
+image: ../cakes/pics/pishnii-biskvit-s-balzamicheskoi-klubnikoi.jpg
 ---
 # Пышный бисквит с бальзамической клубникой \| Fluffy sponge cake with balsamic strawberries
 
-![Пышный бисквит с бальзамической клубникой](../../pics/28144404936_7ae35de071_b.jpg)
+![Пышный бисквит с бальзамической клубникой](../../pics/pishnii-biskvit-s-balzamicheskoi-klubnikoi.jpg)
 
 #### Ингредиенты:
 
@@ -51,5 +51,5 @@ image: ../cakes/pics/28144404936_7ae35de071_b.jpg
 
 Сливки взбить с сахаром, распределить по поверхности бисквита, выложить сверху клубнику и украсить листиками мяты.
 
-[_https://www.callmecupcake.se/2016/07/fluffy-sponge-cake-with-balsamic.html_](https://www.callmecupcake.se/2016/07/fluffy-sponge-cake-with-balsamic.html)
+_callmecupcake.se_
 
