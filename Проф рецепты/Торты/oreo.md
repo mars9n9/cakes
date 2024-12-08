@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/oreo.jpg
+image: ../cakes/pics/oreo.jpg
 ---
 # Пирожное “Oreo”
 

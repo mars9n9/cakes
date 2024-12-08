@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/listopad.jpg
+image: ../cakes/pics/listopad.jpg
 ---
 # Торт Листопад (ГОСТ)
 

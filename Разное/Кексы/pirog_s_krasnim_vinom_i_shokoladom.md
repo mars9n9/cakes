@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/pirog_s_krasnim_vinom_i_shokoladom.jpg
+image: ../cakes/pics/pirog_s_krasnim_vinom_i_shokoladom.jpg
 ---
 # Пирог с красным вином и шоколадом
 

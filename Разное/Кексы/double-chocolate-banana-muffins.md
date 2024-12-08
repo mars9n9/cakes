@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/double-chocolate-banana-muffins.jpg
+image: ../cakes/pics/double-chocolate-banana-muffins.jpg
 ---
 # Шоколадно-банановые маффины с маскарпоне и карамельным соусом \| Double chocolate banana muffins with mascarpone frosting and bourbon caramel sauce
 

@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/banana-coconut-cake.jpg
+image: ../cakes/pics/banana-coconut-cake.jpg
 ---
 # Бананово-кокосовый кекс
 

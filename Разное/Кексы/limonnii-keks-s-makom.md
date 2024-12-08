@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/limonnii-keks-s-makom.jpg
+image: ../cakes/pics/limonnii-keks-s-makom.jpg
 ---
 # Лимонный кекс с маком
 

@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/tatin.jpg
+image: ../cakes/pics/tatin.jpg
 ---
 # Tarte Tatin
 

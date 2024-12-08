@@ -1,5 +1,5 @@
 ---
-image: ../pics/pyshka.jpg
+image: ../cakes/pics/pyshka.jpg
 ---
 # Пышки
 

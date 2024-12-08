@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/lemon+earl+grey+tart+11.jpg
+image: ../cakes/pics/lemon+earl+grey+tart+11.jpg
 ---
 # Лимонный тарт с чаем Эрл Грей
 

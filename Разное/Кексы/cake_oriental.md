@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/cake_oriental.jpg
+image: ../cakes/pics/cake_oriental.jpg
 ---
 # Восточный кекс \| Cake oriental
 

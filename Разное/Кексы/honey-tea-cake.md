@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/honey-tea-cake.jpg
+image: ../cakes/pics/honey-tea-cake.jpg
 ---
 # Медовый кекс с зелёным чаем, имбирём и лимоном
 

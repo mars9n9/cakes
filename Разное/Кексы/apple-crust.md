@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/apple-crust.jpg
+image: ../cakes/pics/apple-crust.jpg
 ---
 # Яблочный кекс с крустильяном
 

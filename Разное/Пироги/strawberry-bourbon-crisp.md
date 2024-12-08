@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/Strawberry-Bourbon-Crisp-5.jpg
+image: ../cakes/pics/Strawberry-Bourbon-Crisp-5.jpg
 ---
 # Клубничный крамбл с бурбоном \| Strawberry Bourbon Crisp
 

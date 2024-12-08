@@ -1,5 +1,5 @@
 ---
-image: ../../pics/pirog-s-belym-shokoladom.jpg
+image: ../cakes/pics/pirog-s-belym-shokoladom.jpg
 ---
 # Пирог с белым шоколадом
 

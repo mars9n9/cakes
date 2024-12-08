@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/alfajores.jpg
+image: ../cakes/pics/alfajores.jpg
 ---
 # Печенье alfajores
 

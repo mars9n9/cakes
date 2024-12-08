@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/kapkeiki-matcha-laim.jpg
+image: ../cakes/pics/kapkeiki-matcha-laim.jpg
 ---
 # Капкейки Матча-лайм
 

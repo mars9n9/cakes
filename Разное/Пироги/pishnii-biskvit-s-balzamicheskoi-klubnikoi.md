@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/28144404936_7ae35de071_b.jpg
+image: ../cakes/pics/28144404936_7ae35de071_b.jpg
 ---
 # Пышный бисквит с бальзамической клубникой \| Fluffy sponge cake with balsamic strawberries
 

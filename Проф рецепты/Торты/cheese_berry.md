@@ -1,5 +1,5 @@
 ---
-image: ../../pics/cheese_berry.jpg
+image: ../cakes/pics/cheese_berry.jpg
 ---
 # Чизкейк, ягоды, хрустящее печенье и овсяный штрейзель 
 

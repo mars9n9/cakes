@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/vacherin.png
+image: ../cakes/pics/vacherin.png
 ---
 # Вашрен (Vacherin)
 

@@ -1,5 +1,5 @@
 ---
-image: ../../pics/pirog-s-medom-kedrovymi-orekhami-i-rozmarinom.jpg
+image: ../cakes/pics/pirog-s-medom-kedrovymi-orekhami-i-rozmarinom.jpg
 ---
 # Пирог с медом, кедровыми орехами и розмарином
 

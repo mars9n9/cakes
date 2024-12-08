@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/prostoi-klubnichnyi-pirog-or-torta-di-fragole-semplice.jpg
+image: ../cakes/pics/prostoi-klubnichnyi-pirog-or-torta-di-fragole-semplice.jpg
 ---
 # Простой клубничный пирог \| Torta di fragole semplice
 

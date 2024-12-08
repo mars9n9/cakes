@@ -1,5 +1,5 @@
 ---
-image: ../pics/christollen.jpg
+image: ../cakes/pics/christollen.jpg
 ---
 # Дрожжевой штоллен (эльзасская версия) \| Christollen
 

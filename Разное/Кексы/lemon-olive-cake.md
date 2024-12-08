@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/lemon-olive-cake.webp
+image: ../cakes/pics/lemon-olive-cake.webp
 ---
 # Лимонный кекс с оливковым маслом
 

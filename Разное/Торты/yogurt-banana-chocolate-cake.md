@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/yogurt-banana-chocolate-cake-02.jpg
+image: ../cakes/pics/yogurt-banana-chocolate-cake-02.jpg
 ---
 # Йогуртово-банановый шоколадный торт
 

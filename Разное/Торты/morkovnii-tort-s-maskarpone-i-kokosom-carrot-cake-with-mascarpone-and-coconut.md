@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/morkovnii-tort-s-maskarpone-i-kokosom-carrot-cake-with-mascarpone-and-coconut.jpg
+image: ../cakes/pics/morkovnii-tort-s-maskarpone-i-kokosom-carrot-cake-with-mascarpone-and-coconut.jpg
 ---
 # Морковный торт с маскарпоне и кокосом \| Carrot cake with mascarpone & coconut
 

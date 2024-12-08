@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/cake-apple-caramel-ovando.jpg
+image: ../cakes/pics/cake-apple-caramel-ovando.jpg
 ---
 # Торт с карамельными яблоками рецепт Hans Ovando
 

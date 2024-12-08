@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/shanezki.jpg
+image: ../cakes/pics/shanezki.jpg
 ---
 # Шанежки с толоконной поливой и брусникой
 

@@ -1,5 +1,5 @@
 ---
-image: ../pics/lemon_curd.jpg
+image: ../cakes/pics/lemon_curd.jpg
 ---
 # Lemon curd \| Лимонный курд
 

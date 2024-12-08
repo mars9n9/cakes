@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/vinogradnii-pirog.jpg
+image: ../cakes/pics/vinogradnii-pirog.jpg
 ---
 # Виноградный пирог
 

@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/apple-mousse-kirstentibballs-1.jpg
+image: ../cakes/pics/apple-mousse-kirstentibballs-1.jpg
 ---
 # Муссовая яблочная шарлотка рецепт Kirsten Tibballs
 

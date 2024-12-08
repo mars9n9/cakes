@@ -1,5 +1,5 @@
 ---
-image: ../../pics/southern-peach-cobbler.jpg
+image: ../cakes/pics/southern-peach-cobbler.jpg
 ---
 # Персиковый кобблер
 

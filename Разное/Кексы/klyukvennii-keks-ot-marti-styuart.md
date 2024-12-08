@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/klyukvennii-keks-ot-marti-styuart.jpg
+image: ../cakes/pics/klyukvennii-keks-ot-marti-styuart.jpg
 ---
 # Клюквенный кекс от Марты Стюарт
 

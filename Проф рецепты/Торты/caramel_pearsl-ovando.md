@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/caramel_pearsl-ovando.jpg
+image: ../cakes/pics/caramel_pearsl-ovando.jpg
 ---
 # Торт Карамельная Груша рецепт Hans Ovando
 

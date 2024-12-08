@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/torta_di_mandarini.jpg
+image: ../cakes/pics/torta_di_mandarini.jpg
 ---
 # Пирог с мандаринами \| Torta di mandarini
 

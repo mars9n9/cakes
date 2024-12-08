@@ -1,5 +1,5 @@
 ---
-image: ../pics/shveitsarskie_pryaniki.jpg
+image: ../cakes/pics/shveitsarskie_pryaniki.jpg
 ---
 # Швейцарские пряники
 

@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/76fa6b0462c854b7548470f32529fec0.jpg
+image: ../cakes/pics/76fa6b0462c854b7548470f32529fec0.jpg
 ---
 # Сахарный пирог \| Tarte au sucre
 

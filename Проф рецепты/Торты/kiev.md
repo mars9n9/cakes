@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/kiev.jpg
+image: ../cakes/pics/kiev.jpg
 ---
 # Торт Киевский версия Nicolas Pierot
 

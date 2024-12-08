@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/apelsinovyi-keks-s-shokoladom.jpg
+image: ../cakes/pics/apelsinovyi-keks-s-shokoladom.jpg
 ---
 # Апельсиновый кекс с шоколадом
 

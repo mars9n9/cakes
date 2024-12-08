@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/kartoshka.jpeg
+image: ../cakes/pics/kartoshka.jpeg
 ---
 # Пирожное “Картошка”
 

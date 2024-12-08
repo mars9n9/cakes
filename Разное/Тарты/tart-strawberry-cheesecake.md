@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/tart-strawberry-cheesecake.jpg
+image: ../cakes/pics/tart-strawberry-cheesecake.jpg
 ---
 # Тарт с а-ля чизкейковой начинкой и клубникой
 

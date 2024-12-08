@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/bananovii_hleb_s_shokoladom_i_arahisom.jpg
+image: ../cakes/pics/bananovii_hleb_s_shokoladom_i_arahisom.jpg
 ---
 # Банановый хлеб с шоколадом и арахисом \| Chocolate Chip & Peanut Banana Bread
 

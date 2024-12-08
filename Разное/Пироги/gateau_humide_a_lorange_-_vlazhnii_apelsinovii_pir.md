@@ -1,5 +1,5 @@
 ---
-image: ../../pics/gateau_humide_a_lorange.jpg
+image: ../cakes/pics/gateau_humide_a_lorange.jpg
 ---
 
 # Влажный апельсиновый пирог \| Gâteau humide à l'orange

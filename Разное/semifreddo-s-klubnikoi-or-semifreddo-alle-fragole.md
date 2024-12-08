@@ -1,5 +1,5 @@
 ---
-image: ../pics/semifreddo-alle-fragole.jpg
+image: ../cakes/pics/semifreddo-alle-fragole.jpg
 ---
 # Семифреддо с клубникой \| Semifreddo alle fragole
 

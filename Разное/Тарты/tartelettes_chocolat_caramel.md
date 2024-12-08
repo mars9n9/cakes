@@ -1,5 +1,5 @@
 ---
-image: ../../pics/tartelettes_chocolat_caramel.jpg
+image: ../cakes/pics/tartelettes_chocolat_caramel.jpg
 ---
 # Тарталетки с шоколадом и карамелью \| Tartelettes chocolat-caramel
 

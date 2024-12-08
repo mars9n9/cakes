@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/cherry_choco.jpg
+image: ../cakes/pics/cherry_choco.jpg
 ---
 # Шоколадный торт с вишней
 

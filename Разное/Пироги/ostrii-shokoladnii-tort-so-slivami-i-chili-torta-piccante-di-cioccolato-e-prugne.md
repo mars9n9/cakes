@@ -1,5 +1,5 @@
 ---
-image: ../../pics/torta-piccante-di-cioccolato-e-prugne.jpg
+image: ../cakes/pics/torta-piccante-di-cioccolato-e-prugne.jpg
 ---
 
 # Острый шоколадный торт со сливами и чили \| Torta piccante di cioccolato e prugne

@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/beetroot-hibiscus-tart-4.jpg
+image: ../cakes/pics/beetroot-hibiscus-tart-4.jpg
 ---
 # Свекольный тарт с гибискусом
 

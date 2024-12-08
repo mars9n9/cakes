@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/camembert.jpg
+image: ../cakes/pics/camembert.jpg
 ---
 # Чизкейк “Камамбер”
 

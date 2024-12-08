@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/pirog-shpinat-vanil-limon.jpg
+image: ../cakes/pics/pirog-shpinat-vanil-limon.jpg
 ---
 # Пирог шпинат-ваниль-лимон
 

@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/perevernutii-slivochnii-keks-s-klubnikoi.jpg
+image: ../cakes/pics/perevernutii-slivochnii-keks-s-klubnikoi.jpg
 ---
 # Перевернутый сливочный кекс с клубникой
 

@@ -1,5 +1,5 @@
 ---
-image: ../../pics/gateau_moelleux_aux_framboises.jpg
+image: ../cakes/pics/gateau_moelleux_aux_framboises.jpg
 ---
 
 # Миндально-яблочный пирог

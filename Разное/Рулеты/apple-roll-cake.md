@@ -1,5 +1,5 @@
 ---
-image: ../../pics/apple-roll-cake.jpg
+image: ../cakes/pics/apple-roll-cake.jpg
 ---
 # Рулет с яблоками и корицей
 

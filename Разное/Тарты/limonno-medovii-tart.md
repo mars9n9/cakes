@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/limonno-medovii-tart.jpg
+image: ../cakes/pics/limonno-medovii-tart.jpg
 ---
 # Лимонно-медовый тарт
 
