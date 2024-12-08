@@ -1,9 +1,9 @@
 ﻿---
-image: ../cakes/pics/46534b62fc6437ff0bdff49f516b52b4.jpg
+image: ../cakes/pics/yablochnii_pirog_iz_transilvanii.jpg
 ---
 # Яблочный пирог из Трансильвании
 
-![Яблочный пирог из Трансильвании](../../pics/46534b62fc6437ff0bdff49f516b52b4.jpg)
+![Яблочный пирог из Трансильвании](../../pics/yablochnii_pirog_iz_transilvanii.jpg)
 
 #### Ингредиенты
 

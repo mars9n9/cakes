@@ -1,9 +1,9 @@
 ﻿---
-image: ../cakes/pics/5977157460_330792a6a7_o.jpg
+image: ../cakes/pics/tart-s-belym-shokoladom-limonom-i-lavandoi.jpg
 ---
 # Тарт с белым шоколадом, лимоном и лавандой
 
-![Тарт с белым шоколадом, лимоном и лавандой](../../pics/5977157460_330792a6a7_o.jpg)
+![Тарт с белым шоколадом, лимоном и лавандой](../../pics/tart-s-belym-shokoladom-limonom-i-lavandoi.jpg)
 
 #### Ингредиенты:
 

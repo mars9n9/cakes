@@ -92,7 +92,6 @@
     * [Ревеневый пирог с меренгой и крамблом](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/rhubarb-pie-meringue.html)
     * [Сливововый пирог от Поля Бокюза](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/slivovovii-pirog-ot-polya-bokyuza.html)
     * [Клубничный крамбл с бурбоном \| Strawberry Bourbon Crisp](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/strawberry-bourbon-crisp.html)
-    * [Сахарный пирог \| Tarte au sucre](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/tarte_au_sucre_-_saharnii_pirog.html)
     * [Яблочный пирог из Трансильвании](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/yablochnii_pirog_iz_transilvanii.html)
     * [Яблочный пирог на йогуртовом тесте](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/yablochnyi-pirog-na-iogurtovom-teste.html)
   * Рулеты

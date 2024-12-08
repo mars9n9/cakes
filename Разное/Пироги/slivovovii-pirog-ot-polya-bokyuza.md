@@ -1,9 +1,9 @@
 ﻿---
-image: ../cakes/pics/0104b8147c60781c6e857c0776fbb897-1.jpg
+image: ../cakes/pics/slivovovii-pirog-ot-polya-bokyuza.jpg
 ---
 # Сливововый пирог от Поля Бокюза
 
-![Сливововый пирог от Поля Бокюза](../../pics/0104b8147c60781c6e857c0776fbb897-1.jpg)
+![Сливововый пирог от Поля Бокюза](../../pics/slivovovii-pirog-ot-polya-bokyuza.jpg)
 
 #### Ингредиенты
 
@@ -33,8 +33,6 @@ image: ../cakes/pics/0104b8147c60781c6e857c0776fbb897-1.jpg
 * 0,5 чл разрыхлителя
 * 18 гр миндальной муки
 
-  \*\*\*\*
-
 #### Приготовление
 
 Сливы разрезать на половинки, вытащить косточки.
@@ -51,4 +49,4 @@ image: ../cakes/pics/0104b8147c60781c6e857c0776fbb897-1.jpg
 
 Пирог остудить. Лучше дегустировать слегка тёплым.
 
-[_https://www.instagram.com/p/BnllZbbAp8N/_](https://www.instagram.com/p/BnllZbbAp8N/)
+_Ig: foodedlife_

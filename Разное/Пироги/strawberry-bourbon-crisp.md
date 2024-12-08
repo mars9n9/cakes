@@ -34,4 +34,4 @@ image: ../cakes/pics/Strawberry-Bourbon-Crisp-5.jpg
 Распределить по клубнике, накрыть фольгой и запекать 30 минут. Снять фольгу и равномерно распределить сверху 4 столовые ложки сливочного масла, сбрызнуть кленовым сиропом. Запечь еще 15-20 минут, не накрывая.  
 Слегка остудить, подавать с мороженым.  
 
-*[https://www.halfbakedharvest.com/strawberry-bourbon-crisp](https://www.halfbakedharvest.com/strawberry-bourbon-crisp/)*
+*halfbakedharvest.com*

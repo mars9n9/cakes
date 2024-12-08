@@ -1,9 +1,9 @@
 ﻿---
-image: ../cakes/pics/90e90534-34a9-4a3b-8a46-74708efb21d2.jpg
+image: ../cakes/pics/tart-s-vishnei-i-mindalyom.jpg
 ---
 # ​​Тарт с вишней и миндалём
 
-![​​Тарт с вишней и миндалём](../../pics/90e90534-34a9-4a3b-8a46-74708efb21d2.jpg)
+![​​Тарт с вишней и миндалём](../../pics/tart-s-vishnei-i-mindalyom.jpg)
 
 #### Ингредиенты
 
@@ -59,4 +59,4 @@ image: ../cakes/pics/90e90534-34a9-4a3b-8a46-74708efb21d2.jpg
 
 Украсьте пирог рублеными фисташками.
 
-*@ktchn_story*
+*Tg: ktchn_story*
