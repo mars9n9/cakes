@@ -1,5 +1,5 @@
 ---
-image: ../../pics/cheddar-crusted-apple-pie.jpg
+image: ../cakes/pics/cheddar-crusted-apple-pie.jpg
 ---
 
 # Яблочный пирог с сырной корочкой из Чеддера
