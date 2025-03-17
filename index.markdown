@@ -115,6 +115,7 @@
   * [Дрожжевой штоллен (эльзасская версия) \| Christollen](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/christollen.html)
   * [Lemon curd \| Лимонный курд](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/lemon_curd.html)
   * [Пышки](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/pyshka.html)
+  * [Печеный карамельный рисовый пудинг](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/rice-pudding.html)
   * [Семифреддо с клубникой \| Semifreddo alle fragole](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/semifreddo-s-klubnikoi-or-semifreddo-alle-fragole.html)
   * [Швейцарские пряники](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/shveitsarskie_pryaniki.html)
 
