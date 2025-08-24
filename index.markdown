@@ -72,6 +72,7 @@
     * [Клюквенный кекс от Марты Стюарт](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/klyukvennii-keks-ot-marti-styuart.html)
     * [Лимонный кекс с оливковым маслом](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/lemon-olive-cake.html)
     * [Лимонный кекс с маком](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/limonnii-keks-s-makom.html)
+    * [Пряный кекс с брусникой](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/lingon-cake.html)
     * [Испанский яблочный пирог с ромом \| Pastel de manzana con ron](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/pastel_de_manzana.html)
     * [Перевернутый сливочный кекс с клубникой](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/perevernutii-slivochnii-keks-s-klubnikoi.html)
     * [Пирог с красным вином и шоколадом](https://mars9n9.github.io/cakes/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9A%D0%B5%D0%BA%D1%81%D1%8B/pirog_s_krasnim_vinom_i_shokoladom.html)
