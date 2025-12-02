@@ -1,5 +1,4 @@
-* .github
-  * workflows* Базовый
+* Базовый
   * [Базовые кремы](https://mars9n9.github.io/cakes/Базовые%20кремы/ix.html)
     * [Англез наоборот](https://mars9n9.github.io/cakes/Базовые%20кремы/anglaise%20backwards.html)
     * [Крем Англез](https://mars9n9.github.io/cakes/Базовые%20кремы/anglaise.html)
