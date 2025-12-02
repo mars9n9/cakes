@@ -1,16 +1,4 @@
-* .git
-  * hooks
-  * info
-  * logs
-    * refs
-      * heads
-      * remotes
-        * origin  * objects
-    * info
-    * pack  * refs
-    * heads
-    * remotes
-      * origin    * tags* .github
+* .github
   * workflows* Базовый
   * [Базовые кремы](https://mars9n9.github.io/cakes/Базовые%20кремы/ix.html)
     * [Англез наоборот](https://mars9n9.github.io/cakes/Базовые%20кремы/anglaise%20backwards.html)
