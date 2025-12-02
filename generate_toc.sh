@@ -5,6 +5,7 @@ convert_folder_content_to_markdown_toc() {
     local base_folder="$1"
     local filetype_filter="$2"
     local level="${3:-0}"
+    local original_base="${4:-$base_folder}"
     
     local nl=$'\n'
     local toc=""
@@ -23,13 +24,14 @@ convert_folder_content_to_markdown_toc() {
         local ix_file="$dir/ix.md"
         local dir_name=$(basename "$dir")
         
+        # Calculate relative path from original base
+        local relative_path="${dir#"$original_base"/}"
+        relative_path="${relative_path#/}"
+        # Replace backslashes with forward slashes (for Windows compatibility)
+        relative_path="${relative_path//\\//}"
+        
         if [[ -f "$ix_file" ]]; then
             # If ix.md exists, create a link for the folder
-            local relative_path="${dir#"$base_folder"/}"
-            relative_path="${relative_path#/}"
-            # Replace backslashes with forward slashes (for Windows compatibility)
-            relative_path="${relative_path//\\//}"
-            
             local suffix="https://mars9n9.github.io/cakes/$relative_path"
             suffix="${suffix%/}"
             
@@ -50,7 +52,7 @@ convert_folder_content_to_markdown_toc() {
         fi
         
         # Recursively call the function for subfolders
-        toc+=$(convert_folder_content_to_markdown_toc "$dir" "$filetype_filter" $((level + 1)))
+        toc+=$(convert_folder_content_to_markdown_toc "$dir" "$filetype_filter" $((level + 1)) "$original_base")
         
         # Get markdown files in current directory, excluding ix.md
         local files=()
@@ -76,16 +78,17 @@ convert_folder_content_to_markdown_toc() {
                 title="${file_name%.*}"
             fi
             
-            local relative_path="${dir#"$base_folder"/}"
-            relative_path="${relative_path#/}"
+            # Calculate relative path from original base for the file's directory
+            local file_dir=$(dirname "$file")
+            local file_relative_path="${file_dir#"$original_base"/}"
+            file_relative_path="${file_relative_path#/}"
             # Replace backslashes with forward slashes (for Windows compatibility)
-            relative_path="${relative_path//\\//}"
+            file_relative_path="${file_relative_path//\\//}"
             
-            local suffix=""
-            if [[ $level -eq 0 ]]; then
-                suffix="https://mars9n9.github.io/cakes$relative_path"
-            else
-                suffix="https://mars9n9.github.io/cakes/$relative_path"
+            # Build the full URL
+            local suffix="https://mars9n9.github.io/cakes"
+            if [[ -n "$file_relative_path" ]]; then
+                suffix="$suffix/$file_relative_path"
             fi
             suffix="${suffix%/}"
             
