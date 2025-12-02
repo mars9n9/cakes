@@ -1,0 +1,32 @@
+name: Generate Table of Contents
+
+on:
+  push:
+    branches:
+      - master  # or 'main', depending on your branch name
+
+jobs:
+  generate_toc:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Git
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+    - name: Run the TOC Generation Script
+      run: |
+        chmod +x ./generate_toc.sh
+        ./generate_toc.sh
+
+    - name: Commit Changes
+      run: |
+        if [[ $(git status --porcelain) ]]; then
+          git add docs/index.markdown
+          git commit -m "Update Table of Contents"
+          git push
+        fi
