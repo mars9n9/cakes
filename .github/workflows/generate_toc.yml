@@ -3,7 +3,7 @@ name: Generate Table of Contents
 on:
   push:
     branches:
-      - master  # or 'main', depending on your branch name
+      - gh-pages
 
 jobs:
   generate_toc:
