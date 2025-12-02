@@ -13,7 +13,7 @@ convert_folder_content_to_markdown_toc() {
     local dirs=()
     while IFS= read -r -d '' dir; do
         local dirname=$(basename "$dir")
-        if [[ ! "$dirname" =~ ^(_site|pics|_posts|styles|_layouts)$ ]]; then
+        if [[ ! "$dirname" =~ ^(.git|_site|pics|_posts|styles|_layouts)$ ]]; then
             dirs+=("$dir")
         fi
     done < <(find "$base_folder" -maxdepth 1 -mindepth 1 -type d -print0 | sort -z)
