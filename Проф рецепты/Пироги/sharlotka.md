@@ -3,7 +3,7 @@ image: ../cakes/pics/sharlotka.jpg
 ---
 # Шарлотка
 
-![Шарлотка](../pics/sharlotka.jpg)
+![Шарлотка](../../pics/sharlotka.jpg)
 
 #### Ингредиенты
 
