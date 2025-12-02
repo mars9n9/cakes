@@ -26,7 +26,7 @@ jobs:
     - name: Commit Changes
       run: |
         if [[ $(git status --porcelain) ]]; then
-          git add docs/index.markdown
+          git add index.markdown
           git commit -m "Update Table of Contents"
           git push
         fi
