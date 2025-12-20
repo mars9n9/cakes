@@ -36,6 +36,8 @@
     * [Вашрен (Vacherin)](https://mars9n9.github.io/cakes/Базовый/Торты/vacherin.html)* Проф рецепты
   * Глазури
     * [Зеркальная глазурь на пектине. Веганская](https://mars9n9.github.io/cakes/Проф%20рецепты/Глазури/mirror_vegan.html)
+  * Печенье
+    * [Имбирное печенье с мармеладом](https://mars9n9.github.io/cakes/Проф%20рецепты/Печенье/orange-ginger-cookies.html)
   * Пироги
     * [Шарлотка](https://mars9n9.github.io/cakes/Проф%20рецепты/Пироги/sharlotka.html)
   * Пирожные
