@@ -45,7 +45,6 @@
   * Разное
     * [Шоколад для чуррос](https://mars9n9.github.io/cakes/Проф%20рецепты/Разное/chocolate-dip.html)
     * [Нутелла](https://mars9n9.github.io/cakes/Проф%20рецепты/Разное/nutella.html)
-    * [Песочное тесто](https://mars9n9.github.io/cakes/Проф%20рецепты/Разное/pesochnoe.html)
     * [Температуры выпечки](https://mars9n9.github.io/cakes/Проф%20рецепты/Разное/temperature.html)
   * Тарты
     * [Фисташково-абрикосовый тарт](https://mars9n9.github.io/cakes/Проф%20рецепты/Тарты/tart_pistachio_apricot.html)
