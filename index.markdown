@@ -33,7 +33,8 @@
     * [Швейцарская Меренга](https://mars9n9.github.io/cakes/Базовый/Меренги/swiss_meringue.html)
   * Торты
     * [Торт Дакуаз Пралине](https://mars9n9.github.io/cakes/Базовый/Торты/dacquois_praline.html)
-    * [Вашрен (Vacherin)](https://mars9n9.github.io/cakes/Базовый/Торты/vacherin.html)* Проф рецепты
+    * [Вашрен (Vacherin)](https://mars9n9.github.io/cakes/Базовый/Торты/vacherin.html)
+* Проф рецепты
   * Глазури
     * [Зеркальная глазурь на пектине. Веганская](https://mars9n9.github.io/cakes/Проф%20рецепты/Глазури/mirror_vegan.html)
   * Печенье
@@ -56,7 +57,8 @@
     * [Торт Карамельная Груша рецепт Hans Ovando](https://mars9n9.github.io/cakes/Проф%20рецепты/Торты/caramel_pearsl-ovando.html)
     * [Чизкейк, ягоды, хрустящее печенье и овсяный штрейзель](https://mars9n9.github.io/cakes/Проф%20рецепты/Торты/cheese_berry.html)
     * [Торт Киевский версия Nicolas Pierot](https://mars9n9.github.io/cakes/Проф%20рецепты/Торты/kiev.html)
-    * [Пирожное “Oreo”](https://mars9n9.github.io/cakes/Проф%20рецепты/Торты/oreo.html)* Разное
+    * [Пирожное “Oreo”](https://mars9n9.github.io/cakes/Проф%20рецепты/Торты/oreo.html)
+* Разное
   * Булочки
     * [Шанежки с толоконной поливой и брусникой](https://mars9n9.github.io/cakes/Разное/Булочки/shanezki.html)
   * [Кексы](https://mars9n9.github.io/cakes/Разное/Кексы/ix.html)
