@@ -52,7 +52,10 @@ convert_folder_content_to_markdown_toc() {
         fi
         
         # Recursively call the function for subfolders
-        toc+=$(convert_folder_content_to_markdown_toc "$dir" "$filetype_filter" $((level + 1)) "$original_base")
+        local sub_toc=$(convert_folder_content_to_markdown_toc "$dir" "$filetype_filter" $((level + 1)) "$original_base")
+        if [[ -n "$sub_toc" ]]; then
+            toc+="$sub_toc"
+        fi
         
         # Get markdown files in current directory, excluding ix.md
         local files=()
@@ -63,6 +66,7 @@ convert_folder_content_to_markdown_toc() {
             fi
         done < <(find "$dir" -maxdepth 1 -name "$filetype_filter" -type f -print0 2>/dev/null | sort -z)
         
+        # Process files in this directory
         for file in "${files[@]}"; do
             local file_name=$(basename "$file")
             
@@ -124,6 +128,8 @@ echo "$result" > "$current_directory/index.markdown"
 # Verify the file was created
 if [[ -f "$current_directory/index.markdown" ]]; then
     echo "Successfully created index.markdown in $current_directory"
+    echo "Output preview:"
+    head -20 "$current_directory/index.markdown"
 else
     echo "Error: Failed to create index.markdown"
     exit 1
