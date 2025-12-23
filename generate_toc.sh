@@ -52,7 +52,8 @@ convert_folder_content_to_markdown_toc() {
         fi
         
         # Recursively call the function for subfolders
-        local sub_toc=$(convert_folder_content_to_markdown_toc "$dir" "$filetype_filter" $((level + 1)) "$original_base")
+        local sub_toc
+        sub_toc=$(convert_folder_content_to_markdown_toc "$dir" "$filetype_filter" $((level + 1)) "$original_base")
         if [[ -n "$sub_toc" ]]; then
             toc+="$sub_toc"
         fi
@@ -105,9 +106,20 @@ convert_folder_content_to_markdown_toc() {
             done
             toc+="* [$title]($encoded_url)$nl"
         done
+        
+        # Add a newline after processing this directory (but not for the last one)
+        if [[ ${#dirs[@]} -gt 1 ]] && [[ "$dir" != "${dirs[-1]}" ]]; then
+            # If we're at top level, add a newline
+            if [[ $level -eq 0 ]] && [[ -n "$toc" ]]; then
+                # Only add if we don't already have multiple newlines
+                if [[ "${toc: -2}" != $'\n\n' ]]; then
+                    toc+="$nl"
+                fi
+            fi
+        fi
     done
     
-    echo "$toc"
+    echo -n "$toc"
 }
 
 # Main execution
@@ -122,14 +134,16 @@ fi
 # Convert folder content to markdown TOC
 result=$(convert_folder_content_to_markdown_toc "$current_directory" "*.md")
 
-# Write to file
+# Write to file - add a final newline
 echo "$result" > "$current_directory/index.markdown"
 
 # Verify the file was created
 if [[ -f "$current_directory/index.markdown" ]]; then
     echo "Successfully created index.markdown in $current_directory"
-    echo "Output preview:"
-    head -20 "$current_directory/index.markdown"
+    echo "Output preview (first 30 lines):"
+    echo "--------------------------------"
+    head -30 "$current_directory/index.markdown"
+    echo "--------------------------------"
 else
     echo "Error: Failed to create index.markdown"
     exit 1
