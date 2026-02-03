@@ -37,6 +37,8 @@
 * Проф рецепты
   * Глазури
     * [Зеркальная глазурь на пектине. Веганская](https://mars9n9.github.io/cakes/Проф%20рецепты/Глазури/mirror_vegan.html)
+  * Кексы
+    * [Кекс с грушами, белым шоколадом и тимьяном](https://mars9n9.github.io/cakes/Проф%20рецепты/Кексы/pear-white-chocolate.html)
   * Печенье
     * [Имбирное печенье с мармеладом](https://mars9n9.github.io/cakes/Проф%20рецепты/Печенье/orange-ginger-cookies.html)
   * Пироги
@@ -91,7 +93,6 @@
     * [Острый шоколадный торт со сливами и чили \| Torta piccante di cioccolato e prugne](https://mars9n9.github.io/cakes/Разное/Пироги/ostrii-shokoladnii-tort-so-slivami-i-chili-torta-piccante-di-cioccolato-e-prugne.html)
     * [Персиковый кобблер](https://mars9n9.github.io/cakes/Разное/Пироги/persikovyi-kobbler.html)
     * [Пирог с белым шоколадом](https://mars9n9.github.io/cakes/Разное/Пироги/pirog-s-belym-shokoladom.html)
-    * [Пирог с медом, кедровыми орехами и розмарином](https://mars9n9.github.io/cakes/Разное/Пироги/pirog-s-medom-kedrovymi-orekhami-i-rozmarinom.html)
     * [Пирог со вкусом кофе и шоколада \| Magic custard cake with mocha flavor](https://mars9n9.github.io/cakes/Разное/Пироги/pirog-so-vkusom-kofe-i-shokolada-magic-custard-cake-with-mocha-flavor.html)
     * [Пышный бисквит с бальзамической клубникой \| Fluffy sponge cake with balsamic strawberries](https://mars9n9.github.io/cakes/Разное/Пироги/pishnii-biskvit-s-balzamicheskoi-klubnikoi.html)
     * [Сливововый пирог от Поля Бокюза](https://mars9n9.github.io/cakes/Разное/Пироги/slivovovii-pirog-ot-polya-bokyuza.html)
@@ -103,6 +104,7 @@
   * Тарты
     * [Лимонно-медовый тарт](https://mars9n9.github.io/cakes/Разное/Тарты/limonno-medovii-tart.html)
     * [Лимонный тарт с чаем Эрл Грей](https://mars9n9.github.io/cakes/Разное/Тарты/limonnyi-tart-s-chaem-erl-grei.html)
+    * [Пирог с медом, кедровыми орехами и розмарином](https://mars9n9.github.io/cakes/Разное/Тарты/pirog-s-medom-kedrovymi-orekhami-i-rozmarinom.html)
     * [Свекольный тарт с гибискусом](https://mars9n9.github.io/cakes/Разное/Тарты/svekolnyi-tart-s-gibiskusom.html)
     * [Тарт с белым шоколадом, лимоном и лавандой](https://mars9n9.github.io/cakes/Разное/Тарты/tart-s-belym-shokoladom-limonom-i-lavandoi.html)
     * [​​Тарт с вишней и миндалём](https://mars9n9.github.io/cakes/Разное/Тарты/tart-s-vishnei-i-mindalyom.html)
