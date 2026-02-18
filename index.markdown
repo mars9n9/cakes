@@ -68,7 +68,6 @@
     * [Пряный кекс с брусникой](https://mars9n9.github.io/cakes/Разное/Кексы/lingon-cake.html)
     * [Испанский яблочный пирог с ромом \| Pastel de manzana con ron](https://mars9n9.github.io/cakes/Разное/Кексы/pastel_de_manzana.html)
     * [Перевернутый сливочный кекс с клубникой](https://mars9n9.github.io/cakes/Разное/Кексы/perevernutii-slivochnii-keks-s-klubnikoi.html)
-    * [Виноградный пирог](https://mars9n9.github.io/cakes/Разное/Кексы/vinogradnii-pirog.html)
   * Пироги
     * [Яблочный пирог с сырной корочкой из Чеддера](https://mars9n9.github.io/cakes/Разное/Пироги/cheddar-crusted-apple-pie.html)
     * [Острый шоколадный торт со сливами и чили \| Torta piccante di cioccolato e prugne](https://mars9n9.github.io/cakes/Разное/Пироги/ostrii-shokoladnii-tort-so-slivami-i-chili-torta-piccante-di-cioccolato-e-prugne.html)
