@@ -35,6 +35,8 @@
     * [Торт Дакуаз Пралине](https://mars9n9.github.io/cakes/Базовый/Торты/dacquois_praline.html)
     * [Вашрен (Vacherin)](https://mars9n9.github.io/cakes/Базовый/Торты/vacherin.html)
 * Проф рецепты
+  * Булочки
+    * [Английские крестовые булочки. English hot cross buns](https://mars9n9.github.io/cakes/Проф%20рецепты/Булочки/cross-buns.html)
   * Глазури
     * [Зеркальная глазурь на пектине. Веганская](https://mars9n9.github.io/cakes/Проф%20рецепты/Глазури/mirror_vegan.html)
   * Кексы
