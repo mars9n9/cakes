@@ -80,7 +80,5 @@
   * Торты
     * [Торт Листопад (ГОСТ)](https://mars9n9.github.io/cakes/Разное/Торты/listopad.html)
     * [Пирог шпинат-ваниль-лимон](https://mars9n9.github.io/cakes/Разное/Торты/pirog-shpinat-vanil-limon.html)  * [Дрожжевой штоллен (эльзасская версия) \| Christollen](https://mars9n9.github.io/cakes/Разное/christollen.html)
-  * [Пышки](https://mars9n9.github.io/cakes/Разное/pyshka.html)
   * [Печеный карамельный рисовый пудинг](https://mars9n9.github.io/cakes/Разное/rice-pudding.html)
-  * [Семифреддо с клубникой \| Semifreddo alle fragole](https://mars9n9.github.io/cakes/Разное/semifreddo-s-klubnikoi-or-semifreddo-alle-fragole.html)
   * [Швейцарские пряники](https://mars9n9.github.io/cakes/Разное/shveitsarskie_pryaniki.html)
