@@ -48,6 +48,7 @@
     * [Шарлотка](https://mars9n9.github.io/cakes/Проф%20рецепты/Пироги/sharlotka.html)
   * Пирожные
     * [Пирожное “Картошка”](https://mars9n9.github.io/cakes/Проф%20рецепты/Пирожные/kartoshka.html)
+    * [Пирожное Клубника-Сметана](https://mars9n9.github.io/cakes/Проф%20рецепты/Пирожные/strawberry-sourcream.html)
   * Разное
     * [Шоколад для чуррос](https://mars9n9.github.io/cakes/Проф%20рецепты/Разное/chocolate-dip.html)
     * [Нутелла](https://mars9n9.github.io/cakes/Проф%20рецепты/Разное/nutella.html)
