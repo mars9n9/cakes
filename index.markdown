@@ -54,6 +54,7 @@
     * [Нутелла](https://mars9n9.github.io/cakes/Проф%20рецепты/Разное/nutella.html)
     * [Панна-котта лайм базилик с клубникой](https://mars9n9.github.io/cakes/Проф%20рецепты/Разное/pannacotta.html)
     * [Духи для выпечки](https://mars9n9.github.io/cakes/Проф%20рецепты/Разное/perfume.html)
+    * [СЕМИФРЕДДО](https://mars9n9.github.io/cakes/Проф%20рецепты/Разное/semifreddo.html)
     * [Творожные сырки](https://mars9n9.github.io/cakes/Проф%20рецепты/Разное/syrki.html)
     * [Температуры выпечки](https://mars9n9.github.io/cakes/Проф%20рецепты/Разное/temperature.html)
     * [Домашний творог для выпечки](https://mars9n9.github.io/cakes/Проф%20рецепты/Разное/tvorog.html)
