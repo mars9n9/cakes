@@ -53,7 +53,8 @@ convert_folder_content_to_markdown_toc() {
         
         # Recursively call the function for subfolders
         local sub_toc
-        sub_toc=$(convert_folder_content_to_markdown_toc "$dir" "$filetype_filter" $((level + 1)) "$original_base")
+        sub_toc="$(convert_folder_content_to_markdown_toc "$dir" "$filetype_filter" $((level + 1)) "$original_base"; printf '<<TOC_END>>')"
+        sub_toc="${sub_toc%<<TOC_END>>}"
         if [[ -n "$sub_toc" ]]; then
             toc+="$sub_toc"
         fi
