@@ -34,6 +34,7 @@
   * Торты
     * [Торт Дакуаз Пралине](https://mars9n9.github.io/cakes/Базовый/Торты/dacquois_praline.html)
     * [Вашрен (Vacherin)](https://mars9n9.github.io/cakes/Базовый/Торты/vacherin.html)
+
 * Проф рецепты
   * Булочки
     * [Английские крестовые булочки. English hot cross buns](https://mars9n9.github.io/cakes/Проф%20рецепты/Булочки/cross-buns.html)
@@ -68,6 +69,7 @@
     * [Торт Карамельная Груша рецепт Hans Ovando](https://mars9n9.github.io/cakes/Проф%20рецепты/Торты/caramel_pearsl-ovando.html)
     * [Торт Киевский версия Nicolas Pierot](https://mars9n9.github.io/cakes/Проф%20рецепты/Торты/kiev.html)
     * [Пирожное “Oreo”](https://mars9n9.github.io/cakes/Проф%20рецепты/Торты/oreo.html)
+
 * Разное
   * Булочки
     * [Шанежки с толоконной поливой и брусникой](https://mars9n9.github.io/cakes/Разное/Булочки/shanezki.html)
@@ -86,6 +88,7 @@
     * [Лимонно-медовый тарт](https://mars9n9.github.io/cakes/Разное/Тарты/limonno-medovii-tart.html)
   * Торты
     * [Торт Листопад (ГОСТ)](https://mars9n9.github.io/cakes/Разное/Торты/listopad.html)
-    * [Пирог шпинат-ваниль-лимон](https://mars9n9.github.io/cakes/Разное/Торты/pirog-shpinat-vanil-limon.html)  * [Дрожжевой штоллен (эльзасская версия) \| Christollen](https://mars9n9.github.io/cakes/Разное/christollen.html)
+    * [Пирог шпинат-ваниль-лимон](https://mars9n9.github.io/cakes/Разное/Торты/pirog-shpinat-vanil-limon.html)
+  * [Дрожжевой штоллен (эльзасская версия) \| Christollen](https://mars9n9.github.io/cakes/Разное/christollen.html)
   * [Печеный карамельный рисовый пудинг](https://mars9n9.github.io/cakes/Разное/rice-pudding.html)
   * [Швейцарские пряники](https://mars9n9.github.io/cakes/Разное/shveitsarskie_pryaniki.html)
