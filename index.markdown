@@ -33,6 +33,7 @@
     * [Швейцарская Меренга](https://mars9n9.github.io/cakes/Базовый/Меренги/swiss_meringue.html)
   * Торты
     * [Торт Дакуаз Пралине](https://mars9n9.github.io/cakes/Базовый/Торты/dacquois_praline.html)
+    * [Торт Noche Jerezana Guinness](https://mars9n9.github.io/cakes/Базовый/Торты/noche-jerezana.html)
     * [Вашрен (Vacherin)](https://mars9n9.github.io/cakes/Базовый/Торты/vacherin.html)
 
 * Проф рецепты
