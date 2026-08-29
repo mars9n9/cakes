@@ -1,6 +1,3 @@
----
-image: ../cakes/pics/strawberry-sourcream.jpg
----
 # Пирожное Клубника-Сметана
 
 ![Панна-котта лайм базилик с клубникой](../../pics/strawberry-sourcream.jpg)

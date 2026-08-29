@@ -1,6 +1,3 @@
-﻿---
-image: ../cakes/pics/limonno-medovii-tart.jpg
----
 # Лимонно-медовый тарт
 
 ![Лимонно-медовый тарт](../../pics/limonno-medovii-tart.jpg)

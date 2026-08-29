@@ -1,6 +1,3 @@
-﻿---
-image: ../cakes/pics/pirog-shpinat-vanil-limon.jpg
----
 # Пирог шпинат-ваниль-лимон
 
 ![Пирог шпинат-ваниль-лимон](../../pics/pirog-shpinat-vanil-limon.jpg)
@@ -42,4 +39,3 @@ image: ../cakes/pics/pirog-shpinat-vanil-limon.jpg
 Корж разрезать вдоль на 2 части. Перемазать кремом. Дать постоять в холодильнике пару часов.
 
 _Ig: foodedlife_
-

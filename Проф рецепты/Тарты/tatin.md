@@ -1,6 +1,3 @@
-﻿---
-image: ../cakes/pics/tatin.jpg
----
 # Tarte Tatin
 
 ![Tarte Tatin](../../pics/tatin.jpg)

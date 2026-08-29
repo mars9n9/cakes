@@ -1,6 +1,3 @@
-﻿---
-image: ../cakes/pics/slivovovii-pirog-ot-polya-bokyuza.jpg
----
 # Сливововый пирог от Поля Бокюза
 
 ![Сливововый пирог от Поля Бокюза](../../pics/slivovovii-pirog-ot-polya-bokyuza.jpg)

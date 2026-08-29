@@ -1,6 +1,3 @@
-﻿---
-image: ../cakes/pics/apple-mousse-kirstentibballs-1.jpg
----
 # Муссовая яблочная шарлотка рецепт Kirsten Tibballs
 
 Состав: ванильный мусс с маскарпоне, центр из яблочной шарлотки, яблочное желе

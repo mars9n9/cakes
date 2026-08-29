@@ -1,6 +1,3 @@
-﻿---
-image: ../cakes/pics/pear-white-chocolate.jpg
----
 # Кекс с грушами, белым шоколадом и тимьяном
 
 ![Кекс с грушами, белым шоколадом и тимьяном](../../pics/pear-white-chocolate.jpg)

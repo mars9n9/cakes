@@ -1,6 +1,3 @@
-﻿---
-image: ../cakes/pics/tart_pistachio_apricot.jpg
----
 # Фисташково-абрикосовый тарт
 
 ![Фисташково-абрикосовый тарт](../../pics/tart_pistachio_apricot.jpg)

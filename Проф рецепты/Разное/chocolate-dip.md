@@ -1,6 +1,3 @@
----
-image: ../cakes/pics/chocolate-dip.jpg
----
 # Шоколад для чуррос
 
 ![Шоколад для чуррос](../../pics/chocolate-dip.jpg)

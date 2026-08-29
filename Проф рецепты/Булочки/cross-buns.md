@@ -1,6 +1,3 @@
----
-image: ../cakes/pics/cross-buns.jpg
----
 # Английские крестовые булочки. English hot cross buns
 
 ![Английские крестовые булочки. English hot cross buns](../../pics/cross-buns.jpg)

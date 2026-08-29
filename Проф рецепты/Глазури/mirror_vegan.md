@@ -1,6 +1,3 @@
-﻿---
-image: ../cakes/pics/mirror_vegan.jpg
----
 # Зеркальная глазурь на пектине. Веганская
 
 ![Зеркальная глазурь](../../pics/mirror_vegan.jpg)

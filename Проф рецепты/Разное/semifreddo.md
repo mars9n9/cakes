@@ -1,6 +1,3 @@
----
-image: ../cakes/pics/semifreddo.jpg
----
 # СЕМИФРЕДДО
 КЛУБНИКА-ЖАСМИН
 

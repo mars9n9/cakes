@@ -1,6 +1,3 @@
-﻿---
-image: ../cakes/pics/kartoshka.jpeg
----
 # Пирожное “Картошка”
 
 ![Пирожное “Картошка”](../../pics/kartoshka.jpeg)

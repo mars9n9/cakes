@@ -1,6 +1,3 @@
----
-image: ../cakes/pics/shveitsarskie_pryaniki.jpg
----
 # Швейцарские пряники
 
 ![Швейцарские пряники](../pics/shveitsarskie_pryaniki.jpg)

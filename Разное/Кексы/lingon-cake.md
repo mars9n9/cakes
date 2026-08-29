@@ -1,6 +1,3 @@
-﻿---
-image: ../cakes/pics/lingon-cake.jpg
----
 # Пряный кекс с брусникой
 
 ![Пряный кекс с брусникой](../../pics/lingon-cake.jpg)

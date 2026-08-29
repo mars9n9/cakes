@@ -1,6 +1,3 @@
-﻿---
-image: ../cakes/pics/pastel_de_manzana.jpg
----
 # Испанский яблочный пирог с ромом \| Pastel de manzana con ron
 
 ![Pastel de manzana con ron](../../pics/pastel_de_manzana.jpg)

@@ -1,6 +1,3 @@
----
-image: ../cakes/pics/rice-pudding.jpg
----
 # Печеный карамельный рисовый пудинг
 
 ![Печеный карамельный рисовый пудинг](../pics/rice-pudding.jpg)

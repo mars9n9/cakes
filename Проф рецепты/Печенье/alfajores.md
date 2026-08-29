@@ -1,6 +1,3 @@
-﻿---
-image: ../cakes/pics/alfajores.jpg
----
 # Печенье alfajores
 
 ![Печенье alfajores](../../pics/alfajores.jpg)

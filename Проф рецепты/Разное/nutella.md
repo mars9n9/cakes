@@ -1,6 +1,3 @@
----
-image: ../cakes/pics/nutella.jpg
----
 # Нутелла
 
 ![Нутелла](../../pics/nutella.jpg)

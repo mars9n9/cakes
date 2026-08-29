@@ -1,6 +1,3 @@
----
-image: ../cakes/pics/syrki.jpg
----
 # Творожные сырки 
 
 ![Творожные сырки](../../pics/syrki.jpg)

@@ -1,6 +1,3 @@
-﻿---
-image: ../cakes/pics/listopad.jpg
----
 # Торт Листопад (ГОСТ)
 
 ![Торт Листопад (ГОСТ)](../../pics/listopad.jpg)

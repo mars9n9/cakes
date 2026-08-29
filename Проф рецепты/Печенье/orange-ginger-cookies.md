@@ -1,6 +1,3 @@
-﻿---
-image: ../cakes/pics/orange-ginger-cookies.jpg
----
 # Имбирное печенье с мармеладом
 
 ![Имбирное печенье с мармеладом](../../pics/orange-ginger-cookies.jpg)

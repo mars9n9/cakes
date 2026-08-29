@@ -1,6 +1,3 @@
----
-image: ../cakes/pics/christollen.jpg
----
 # Дрожжевой штоллен (эльзасская версия) \| Christollen
 
 ![Christollen](../pics/christollen.jpg)
