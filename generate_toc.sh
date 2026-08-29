@@ -1,151 +1,132 @@
-#!/bin/bash
+#!/usr/bin/env bash
+set -euo pipefail
 
-# Function to convert folder content to markdown table of contents
-convert_folder_content_to_markdown_toc() {
-    local base_folder="$1"
-    local filetype_filter="$2"
-    local level="${3:-0}"
-    local original_base="${4:-$base_folder}"
-    
-    local nl=$'\n'
-    local toc=""
-    
-    # Get directories, excluding specific ones
-    local dirs=()
-    while IFS= read -r -d '' dir; do
-        local dirname=$(basename "$dir")
-        if [[ ! "$dirname" =~ ^(.git|.github|_site|pics|_posts|styles|_layouts)$ ]]; then
-            dirs+=("$dir")
-        fi
-    done < <(find "$base_folder" -maxdepth 1 -mindepth 1 -type d -print0 | sort -z)
-    
-    for dir in "${dirs[@]}"; do
-        # Check if ix.md exists in the current directory
-        local ix_file="$dir/ix.md"
-        local dir_name=$(basename "$dir")
-        
-        # Calculate relative path from original base
-        local relative_path="${dir#"$original_base"/}"
-        relative_path="${relative_path#/}"
-        # Replace backslashes with forward slashes (for Windows compatibility)
-        relative_path="${relative_path//\\//}"
-        
-        if [[ -f "$ix_file" ]]; then
-            # If ix.md exists, create a link for the folder
-            local suffix="https://mars9n9.github.io/cakes/$relative_path"
-            suffix="${suffix%/}"
-            
-            # URL encode the path
-            local encoded_suffix=$(echo "$suffix/ix.html" | sed -e 's/ /%20/g' -e 's/&/%26/g' -e 's/#/%23/g' -e 's/\[/%5B/g' -e 's/\]/%5D/g')
-            
-            # Add indentation
-            for ((i=0; i<level; i++)); do
-                toc+="  "
-            done
-            toc+="* [$dir_name]($encoded_suffix)$nl"
-        else
-            # If ix.md does not exist, show the folder name as plain text
-            for ((i=0; i<level; i++)); do
-                toc+="  "
-            done
-            toc+="* $dir_name$nl"
-        fi
-        
-        # Recursively call the function for subfolders
-        local sub_toc
-        sub_toc="$(convert_folder_content_to_markdown_toc "$dir" "$filetype_filter" $((level + 1)) "$original_base"; printf '<<TOC_END>>')"
-        sub_toc="${sub_toc%<<TOC_END>>}"
-        if [[ -n "$sub_toc" ]]; then
-            toc+="$sub_toc"
-        fi
-        
-        # Get markdown files in current directory, excluding ix.md
-        local files=()
-        while IFS= read -r -d '' file; do
-            local filename=$(basename "$file")
-            if [[ ! "$filename" == "ix.md" ]]; then
-                files+=("$file")
-            fi
-        done < <(find "$dir" -maxdepth 1 -name "$filetype_filter" -type f -print0 2>/dev/null | sort -z)
-        
-        # Process files in this directory
-        for file in "${files[@]}"; do
-            local file_name=$(basename "$file")
-            
-            # Try to extract the title from the first line starting with '#'
-            local title=""
-            local first_line_with_hash=$(grep -m 1 "^#" "$file" 2>/dev/null || echo "")
-            
-            if [[ -n "$first_line_with_hash" ]]; then
-                # Remove the '#' and any leading/trailing spaces
-                title=$(echo "$first_line_with_hash" | sed -e 's/^#\s*//' -e 's/\s*$//')
-            else
-                # If no line starts with '#', default to the file name without extension
-                title="${file_name%.*}"
-            fi
-            
-            # Calculate relative path from original base for the file's directory
-            local file_dir=$(dirname "$file")
-            local file_relative_path="${file_dir#"$original_base"/}"
-            file_relative_path="${file_relative_path#/}"
-            # Replace backslashes with forward slashes (for Windows compatibility)
-            file_relative_path="${file_relative_path//\\//}"
-            
-            # Build the full URL
-            local suffix="https://mars9n9.github.io/cakes"
-            if [[ -n "$file_relative_path" ]]; then
-                suffix="$suffix/$file_relative_path"
-            fi
-            suffix="${suffix%/}"
-            
-            # URL encode the path
-            local encoded_url=$(echo "$suffix/$file_name" | sed -e 's/\.md$/.html/' -e 's/ /%20/g' -e 's/&/%26/g' -e 's/#/%23/g' -e 's/\[/%5B/g' -e 's/\]/%5D/g')
-            
-            # Add indentation
-            for ((i=0; i<=level; i++)); do
-                toc+="  "
-            done
-            toc+="* [$title]($encoded_url)$nl"
-        done
-        
-        # Add a newline after processing this directory (but not for the last one)
-        if [[ ${#dirs[@]} -gt 1 ]] && [[ "$dir" != "${dirs[-1]}" ]]; then
-            # If we're at top level, add a newline
-            if [[ $level -eq 0 ]] && [[ -n "$toc" ]]; then
-                # Only add if we don't already have multiple newlines
-                if [[ "${toc: -2}" != $'\n\n' ]]; then
-                    toc+="$nl"
-                fi
-            fi
-        fi
-    done
-    
-    echo -n "$toc"
+BASE_URL="https://mars9n9.github.io/cakes"
+ROOT="${1:-$PWD}"
+
+url_encode() {
+    local value="${1}"
+    value=${value// /%20}
+    value=${value//&/%26}
+    value=${value//#/%23}
+    value=${value//\[/%5B}
+    value=${value//\]/%5D}
+    printf '%s' "$value"
 }
 
-# Main execution
-current_directory=$(pwd)
+page_title() {
+    local file="$1"
+    local title
+    local name
+    title=$(awk '
+        BEGIN { found = 0 }
+        /^# / && found == 0 {
+            sub(/^# +/, "", $0)
+            sub(/[[:space:]]+$/, "", $0)
+            print
+            found = 1
+            exit
+        }
+    ' "$file")
 
-# Check if directory exists
-if [[ ! -d "$current_directory" ]]; then
-    echo "Error: Directory '$current_directory' does not exist."
+    if [[ -n "$title" ]]; then
+        printf '%s' "$title"
+    else
+        name="${file##*/}"
+        printf '%s' "${name%.md}"
+    fi
+}
+
+build_url() {
+    local relative_path="$1"
+    local encoded
+    encoded=$(url_encode "$relative_path")
+    printf '%s/%s' "$BASE_URL" "$encoded"
+}
+
+walk_dir() {
+    local dir="$1"
+    local level="${2:-0}"
+    local indent=""
+    local file_indent=""
+    local i
+    local dir_name
+    local rel_path
+    local href
+    local child
+    local file
+    local title
+    local file_rel
+
+    for ((i = 0; i < level; i++)); do
+        indent+="  "
+    done
+    for ((i = 0; i <= level; i++)); do
+        file_indent+="  "
+    done
+
+    dir_name=$(basename "$dir")
+    rel_path="${dir#"$ROOT"/}"
+    if [[ "$rel_path" == "$dir" ]]; then
+        rel_path=""
+    fi
+
+    if [[ -f "$dir/ix.md" ]]; then
+        href="$BASE_URL"
+        if [[ -n "$rel_path" ]]; then
+            href+="/$(url_encode "$rel_path")"
+        fi
+        href="${href%/}/ix.html"
+        printf '%s* [%s](%s)\n' "$indent" "$dir_name" "$href"
+    elif [[ -n "$rel_path" ]]; then
+        printf '%s* %s\n' "$indent" "$dir_name"
+    fi
+
+    while IFS= read -r -d '' child; do
+        child_name=$(basename "$child")
+        if [[ "$child_name" =~ ^(\.git|\.github|_site|pics|_posts|styles|_layouts)$ ]]; then
+            continue
+        fi
+        if [[ -d "$child" ]]; then
+            walk_dir "$child" $((level + 1))
+        fi
+    done < <(find "$dir" -mindepth 1 -maxdepth 1 -print0 | sort -z)
+
+    while IFS= read -r -d '' file; do
+        file_name=$(basename "$file")
+        if [[ "$file_name" == "ix.md" ]]; then
+            continue
+        fi
+        title=$(page_title "$file")
+        file_rel="${file#"$ROOT"/}"
+        href=$(build_url "${file_rel%.md}.html")
+        printf '%s* [%s](%s)\n' "$file_indent" "$title" "$href"
+    done < <(find "$dir" -mindepth 1 -maxdepth 1 -type f -name '*.md' -print0 | sort -z)
+}
+
+if [[ ! -d "$ROOT" ]]; then
+    echo "Error: Directory '$ROOT' does not exist." >&2
     exit 1
 fi
 
-# Convert folder content to markdown TOC
-result=$(convert_folder_content_to_markdown_toc "$current_directory" "*.md")
+printf '' > "$ROOT/index.markdown"
 
-# Write to file - add a final newline
-echo "$result" > "$current_directory/index.markdown"
+while IFS= read -r -d '' dir; do
+    dir_name=$(basename "$dir")
+    if [[ "$dir_name" =~ ^(\.git|\.github|_site|pics|_posts|styles|_layouts)$ ]]; then
+        continue
+    fi
+    walk_dir "$dir" 0 >> "$ROOT/index.markdown"
+    printf '\n' >> "$ROOT/index.markdown"
+done < <(find "$ROOT" -mindepth 1 -maxdepth 1 -type d -print0 | sort -z)
 
-# Verify the file was created
-if [[ -f "$current_directory/index.markdown" ]]; then
-    echo "Successfully created index.markdown in $current_directory"
+if [[ -f "$ROOT/index.markdown" ]]; then
+    echo "Successfully created index.markdown in $ROOT"
     echo "Output preview (first 30 lines):"
     echo "--------------------------------"
-    head -30 "$current_directory/index.markdown"
+    head -30 "$ROOT/index.markdown"
     echo "--------------------------------"
 else
-    echo "Error: Failed to create index.markdown"
+    echo "Error: Failed to create index.markdown" >&2
     exit 1
 fi
