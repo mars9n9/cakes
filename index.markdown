@@ -81,6 +81,7 @@
     * [raspberry-matcha](https://mars9n9.github.io/cakes/Разное/Кексы/raspberry-matcha.html)
   * Пироги
     * [Яблочный пирог с сырной корочкой из Чеддера](https://mars9n9.github.io/cakes/Разное/Пироги/cheddar-crusted-apple-pie.html)
+    * [Фиговый пирог](https://mars9n9.github.io/cakes/Разное/Пироги/fig-pie.html)
     * [Острый шоколадный торт со сливами и чили \| Torta piccante di cioccolato e prugne](https://mars9n9.github.io/cakes/Разное/Пироги/ostrii-shokoladnii-tort-so-slivami-i-chili-torta-piccante-di-cioccolato-e-prugne.html)
     * [Пирог со вкусом кофе и шоколада \| Magic custard cake with mocha flavor](https://mars9n9.github.io/cakes/Разное/Пироги/pirog-so-vkusom-kofe-i-shokolada-magic-custard-cake-with-mocha-flavor.html)
     * [Сливововый пирог от Поля Бокюза](https://mars9n9.github.io/cakes/Разное/Пироги/slivovovii-pirog-ot-polya-bokyuza.html)
