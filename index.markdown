@@ -42,6 +42,7 @@
   * Глазури
     * [Зеркальная глазурь на пектине. Веганская](https://mars9n9.github.io/cakes/Проф%20рецепты/Глазури/mirror_vegan.html)
   * Кексы
+    * [Капкейки «Banoffee Pie»](https://mars9n9.github.io/cakes/Проф%20рецепты/Кексы/banoffee-cupcake.html)
     * [Кекс с грушами, белым шоколадом и тимьяном](https://mars9n9.github.io/cakes/Проф%20рецепты/Кексы/pear-white-chocolate.html)
   * Печенье
     * [Печенье alfajores](https://mars9n9.github.io/cakes/Проф%20рецепты/Печенье/alfajores.html)
