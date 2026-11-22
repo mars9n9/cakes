@@ -42,6 +42,7 @@
   * Глазури
     * [Зеркальная глазурь на пектине. Веганская](https://mars9n9.github.io/cakes/Проф%20рецепты/Глазури/mirror_vegan.html)
   * Кексы
+    * [Капкейки «Banoffee Pie»](https://mars9n9.github.io/cakes/Проф%20рецепты/Кексы/banoffee-cupcake.html)
     * [Кекс с грушами, белым шоколадом и тимьяном](https://mars9n9.github.io/cakes/Проф%20рецепты/Кексы/pear-white-chocolate.html)
   * Печенье
     * [Печенье alfajores](https://mars9n9.github.io/cakes/Проф%20рецепты/Печенье/alfajores.html)
@@ -80,7 +81,9 @@
     * [Перевернутый сливочный кекс с клубникой](https://mars9n9.github.io/cakes/Разное/Кексы/perevernutii-slivochnii-keks-s-klubnikoi.html)
     * [raspberry-matcha](https://mars9n9.github.io/cakes/Разное/Кексы/raspberry-matcha.html)
   * Пироги
+    * [Бретонский пирог на пиве](https://mars9n9.github.io/cakes/Разное/Пироги/breton-beer.html)
     * [Яблочный пирог с сырной корочкой из Чеддера](https://mars9n9.github.io/cakes/Разное/Пироги/cheddar-crusted-apple-pie.html)
+    * [Фиговый пирог](https://mars9n9.github.io/cakes/Разное/Пироги/fig-pie.html)
     * [Острый шоколадный торт со сливами и чили \| Torta piccante di cioccolato e prugne](https://mars9n9.github.io/cakes/Разное/Пироги/ostrii-shokoladnii-tort-so-slivami-i-chili-torta-piccante-di-cioccolato-e-prugne.html)
     * [Пирог со вкусом кофе и шоколада \| Magic custard cake with mocha flavor](https://mars9n9.github.io/cakes/Разное/Пироги/pirog-so-vkusom-kofe-i-shokolada-magic-custard-cake-with-mocha-flavor.html)
     * [Сливововый пирог от Поля Бокюза](https://mars9n9.github.io/cakes/Разное/Пироги/slivovovii-pirog-ot-polya-bokyuza.html)
